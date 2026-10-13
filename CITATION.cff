@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite the source report when using these public data tables."
+type: dataset
+doi: 10.5281/zenodo.23338581
+title: "State of AI Dubbing 2026: public data supplement (v2.0)"
+authors:
+  - family-names: Kwon
+    given-names: Taeksoon
+    affiliation: "ESTsoft (Perso Dubbing)"
+  - name: "Perso Dubbing Data Team"
+version: "2.0"
+license: CC-BY-4.0
+url: "https://perso.ai/research/state-of-ai-dubbing-2026/"
+preferred-citation:
+  type: report
+  title: "State of AI Dubbing 2026: A Multi-Vertical Analysis, Mid-Year Update (v2.0)"
+  authors:
+    - family-names: Kwon
+      given-names: Taeksoon
+    - name: "Perso Dubbing Data Team"
+  year: 2026
+  version: "2.0"
+  publisher:
+    name: "Perso Dubbing"
+  url: "https://perso.ai/research/state-of-ai-dubbing-2026/"

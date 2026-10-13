@@ -1,0 +1,231 @@
+{
+  "retrieved_at": "2026-10-13T18:55:56.288397+09:00",
+  "report_url": "https://perso.ai/research/state-of-ai-dubbing-2026/",
+  "csv_files": 36,
+  "methodology_files": 1,
+  "raw_project_data_included": false,
+  "files": [
+    {
+      "file": "data/headline-statistics-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/headline-statistics-2026.csv",
+      "bytes": 1095,
+      "sha256": "568b95ae239fe99b31e14689f6addab1c418fb3fcceb29ea8de2ab6c9af0526c"
+    },
+    {
+      "file": "data/industry-deep-dive-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/industry-deep-dive-2026.csv",
+      "bytes": 1199,
+      "sha256": "2894e37ea088663e0caba9226a3c6b9c49c59814ac4d0bafed17a77e498c15d9"
+    },
+    {
+      "file": "data/methodology-2026.md",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/methodology-2026.md",
+      "bytes": 23686,
+      "sha256": "446ea2f18db2dec927db10daa369d54cb2e86596c9ac83aab76150a2e67cdec3"
+    },
+    {
+      "file": "data/methodology-counts-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/methodology-counts-2026.csv",
+      "bytes": 1153,
+      "sha256": "984bc969cd76db5afb56512feb41eddeab29e1ffc34bc0c470a961ef8cd6e43b"
+    },
+    {
+      "file": "data/multi-language-adoption-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/multi-language-adoption-2026.csv",
+      "bytes": 397,
+      "sha256": "e12ba98367e95a90f1e1c022610649647b57b09a2cce78f27aa5b925bce49728"
+    },
+    {
+      "file": "data/multi-language-adoption-cumulative-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/multi-language-adoption-cumulative-2026.csv",
+      "bytes": 657,
+      "sha256": "2c3a6d3f2e2f11b6f628310c13a40a95833ee128eab31932f2349f19b3044778"
+    },
+    {
+      "file": "data/paid-concentration-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/paid-concentration-2026.csv",
+      "bytes": 283,
+      "sha256": "8008bb7cd1e46e8c4549b788b56f0dea8508402492aeed40be6b35dee6ed21b2"
+    },
+    {
+      "file": "data/paid-country-language-long-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/paid-country-language-long-2026.csv",
+      "bytes": 10194,
+      "sha256": "cb4875af5acccea52d74ab877877514ded42fec47df6fa3dad8e400f31eed7c3"
+    },
+    {
+      "file": "data/paid-country-profile-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/paid-country-profile-2026.csv",
+      "bytes": 5500,
+      "sha256": "383277add0fe1aa5e45aa606b458e312205642236a1b0bcff5a8e90064dd664b"
+    },
+    {
+      "file": "data/paid-headline-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/paid-headline-2026.csv",
+      "bytes": 1279,
+      "sha256": "0a225097ebe5c6a21860a678dd662b4143b3467deca599efd3cce26e31b02d76"
+    },
+    {
+      "file": "data/paid-industry-minutes-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/paid-industry-minutes-2026.csv",
+      "bytes": 2772,
+      "sha256": "4b59e2a1d17ed2fb19e977bfd210b5dba36275e2a06c8e194115b8c060fc3b00"
+    },
+    {
+      "file": "data/paid-language-minutes-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/paid-language-minutes-2026.csv",
+      "bytes": 6176,
+      "sha256": "bed2e7aeca03ec3547f71638aab13627e8ba89c1f85760ff27e8f3066b0dbb69"
+    },
+    {
+      "file": "data/paid-language-pairs-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/paid-language-pairs-2026.csv",
+      "bytes": 16840,
+      "sha256": "712f5a5c2cfa1872d925cc6129a8ae073742820b824863d55343e42228abd06b"
+    },
+    {
+      "file": "data/paid-language-pairs-by-tier-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/paid-language-pairs-by-tier-2026.csv",
+      "bytes": 42847,
+      "sha256": "5f3b0edb024776372acd446fb1a5508291aa607ed0712b166337ee4a79e5304a"
+    },
+    {
+      "file": "data/paid-largest-flow-composition-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/paid-largest-flow-composition-2026.csv",
+      "bytes": 157,
+      "sha256": "9ddcf0fc9cd179e5ee44ad55fe84f45a8c4e79fe1cc8d6e9c4e620360186819f"
+    },
+    {
+      "file": "data/paid-monthly-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/paid-monthly-2026.csv",
+      "bytes": 531,
+      "sha256": "73d9fe6eaf49666ff070f65bcfa735139d7ff5a2c4c17e3d035f731d35ba8557"
+    },
+    {
+      "file": "data/paid-multi-language-adoption-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/paid-multi-language-adoption-2026.csv",
+      "bytes": 486,
+      "sha256": "b6e921a23ab8f5f47e986e0d56cc45715bcb6ecd06252b8c6b838ab3c3d46787"
+    },
+    {
+      "file": "data/paid-multi-language-by-tier-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/paid-multi-language-by-tier-2026.csv",
+      "bytes": 314,
+      "sha256": "d65cbe261bfa41c9c2c28091783934c9a01d0a54b336787503cf44c5c71f8082"
+    },
+    {
+      "file": "data/paid-new-languages-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/paid-new-languages-2026.csv",
+      "bytes": 553,
+      "sha256": "bf6c4c944200a218c6133b7b0fe7d50576b1ef0ffceb9ebe04e45c5a7056edce"
+    },
+    {
+      "file": "data/paid-production-signals-by-industry-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/paid-production-signals-by-industry-2026.csv",
+      "bytes": 1456,
+      "sha256": "2719abccdb2ab4635223c69ae728babafad88f283d4ab000c29e5a8468e6d894"
+    },
+    {
+      "file": "data/paid-tier-mix-by-industry-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/paid-tier-mix-by-industry-2026.csv",
+      "bytes": 4128,
+      "sha256": "a04d8e5122880c09b316a1f3ff64132eb26aa402dc1cd1ca606737d846098eaf"
+    },
+    {
+      "file": "data/paid-usecase-map-minutes-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/paid-usecase-map-minutes-2026.csv",
+      "bytes": 2838,
+      "sha256": "a2e595ec80a5d6dd24bee6932dc202bd8ccd0e9324cd726bc748112d207f0952"
+    },
+    {
+      "file": "data/paid-usecase-map-minutes-long-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/paid-usecase-map-minutes-long-2026.csv",
+      "bytes": 25772,
+      "sha256": "691d13f03e5484f3bdc01490ce435f432ffc0ac8fe6d7646df9a8eed3e23cafc"
+    },
+    {
+      "file": "data/paid-vs-free-profile-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/paid-vs-free-profile-2026.csv",
+      "bytes": 485,
+      "sha256": "2c06f1b5a4fbc5d5b0141d9539b5928eb5076d35e68cac4371b7521870d4c44a"
+    },
+    {
+      "file": "data/per-language-deep-dive-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/per-language-deep-dive-2026.csv",
+      "bytes": 1148,
+      "sha256": "aeba86731333848dd73ed742a298e4d806994c46b3f1b71b3281f0e174e92dcc"
+    },
+    {
+      "file": "data/per-target-language-inverse-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/per-target-language-inverse-2026.csv",
+      "bytes": 7511,
+      "sha256": "10e0531cb9ba5332979867875f478cbfc7b3a47984798cb26726a63b903697ca"
+    },
+    {
+      "file": "data/platform-monthly-minutes-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/platform-monthly-minutes-2026.csv",
+      "bytes": 813,
+      "sha256": "3a4f7c36011b3b54f6756b805fb781680c22567a89cab38ef2baac32a266dcd3"
+    },
+    {
+      "file": "data/quarterly-trends-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/quarterly-trends-2026.csv",
+      "bytes": 1786,
+      "sha256": "3c6078e9ee67f9c32cea7368e7f891a02684ff2c19b2d4652171896af3d92fea"
+    },
+    {
+      "file": "data/sensitivity-key-findings-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/sensitivity-key-findings-2026.csv",
+      "bytes": 755,
+      "sha256": "63dbdeeca2822c9cc0aeb77f30407cde2317dcfcfc2e258fdfcb70b9a39977e8"
+    },
+    {
+      "file": "data/share-rate-daily-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/share-rate-daily-2026.csv",
+      "bytes": 2539,
+      "sha256": "a36f2b22eed2704b233d8979b28b35c5290310d10fc6b5ab5e2b70f3195a095d"
+    },
+    {
+      "file": "data/top1pct-cohort-anonymized-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/top1pct-cohort-anonymized-2026.csv",
+      "bytes": 1805,
+      "sha256": "89ddc129dce631dca76246ac7c974f43564622b2d4762080ecdc7775e33b0b9a"
+    },
+    {
+      "file": "data/use-case-map-counts-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/use-case-map-counts-2026.csv",
+      "bytes": 1931,
+      "sha256": "f76c20b1327bdeb0a9f32cd607dc24a83c845c4f64408b9c9121c4ade70ebe4b"
+    },
+    {
+      "file": "data/use-case-map-long-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/use-case-map-long-2026.csv",
+      "bytes": 18376,
+      "sha256": "f919fac947da76d101eba223d26596a4d0e4309b5aeb86e259748ce6f514c85a"
+    },
+    {
+      "file": "data/use-case-map-pct-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/use-case-map-pct-2026.csv",
+      "bytes": 2089,
+      "sha256": "b3d9721bec45a61df4392c4b1e1645cc49a3f86e96766261800cb6bd26b5493a"
+    },
+    {
+      "file": "data/v1-findings-retest-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/v1-findings-retest-2026.csv",
+      "bytes": 5862,
+      "sha256": "1010fc231c6ac1b75a912537b7e36e60200060b3ae4b99936ba669c6138e51ac"
+    },
+    {
+      "file": "data/v1-period-recompute-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/v1-period-recompute-2026.csv",
+      "bytes": 1015,
+      "sha256": "00a67ee15f0c60953f6f3c1f0ca48d2217b45919385ded42dbf53ef84d225157"
+    },
+    {
+      "file": "data/v1-vs-v2-industry-share-2026.csv",
+      "source_url": "https://perso.ai/research/state-of-ai-dubbing-2026/data/v1-vs-v2-industry-share-2026.csv",
+      "bytes": 2837,
+      "sha256": "dbe3378c81ce43d60ddbcad7b9a245e107fe3fcee9a67ed7a855153bb8e29b72"
+    }
+  ]
+}
