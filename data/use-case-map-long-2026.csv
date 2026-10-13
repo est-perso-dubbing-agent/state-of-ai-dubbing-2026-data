@@ -1,0 +1,401 @@
+industry,target_language,project_count,pct_of_industry,pct_of_target_language,industry_total,target_language_total
+Education,English,5715,32.44,12.27,17617,46574
+Education,Portuguese,2144,12.17,10.35,17617,20720
+Education,Hindi,1308,7.42,6.68,17617,19582
+Education,Spanish,1835,10.42,10.79,17617,17006
+Education,French,1242,7.05,12.71,17617,9774
+Education,Korean,889,5.05,11.39,17617,7802
+Education,Indonesian,407,2.31,5.94,17617,6851
+Education,Japanese,612,3.47,12.89,17617,4748
+Education,Russian,257,1.46,5.51,17617,4666
+Education,Chinese,739,4.19,17.02,17617,4341
+Education,German,298,1.69,6.97,17617,4278
+Education,Arabic,235,1.33,6.24,17617,3767
+Education,Italian,471,2.67,13.04,17617,3611
+Education,Thai,197,1.12,5.75,17617,3425
+Education,Vietnamese,415,2.36,14.28,17617,2907
+Education,Turkish,199,1.13,8.32,17617,2391
+Education,Polish,108,0.61,5.16,17617,2094
+Education,Ukrainian,129,0.73,11.56,17617,1116
+Education,Tamil,62,0.35,8.61,17617,720
+Education,Czech,27,0.15,4.25,17617,636
+Animation,English,2671,17.39,5.73,15360,46574
+Animation,Portuguese,2230,14.52,10.76,15360,20720
+Animation,Hindi,4169,27.14,21.29,15360,19582
+Animation,Spanish,632,4.11,3.72,15360,17006
+Animation,French,196,1.28,2.01,15360,9774
+Animation,Korean,581,3.78,7.45,15360,7802
+Animation,Indonesian,1925,12.53,28.1,15360,6851
+Animation,Japanese,187,1.22,3.94,15360,4748
+Animation,Russian,219,1.43,4.69,15360,4666
+Animation,Chinese,121,0.79,2.79,15360,4341
+Animation,German,138,0.9,3.23,15360,4278
+Animation,Arabic,867,5.64,23.02,15360,3767
+Animation,Italian,84,0.55,2.33,15360,3611
+Animation,Thai,592,3.85,17.28,15360,3425
+Animation,Vietnamese,147,0.96,5.06,15360,2907
+Animation,Turkish,108,0.7,4.52,15360,2391
+Animation,Polish,84,0.55,4.01,15360,2094
+Animation,Ukrainian,34,0.22,3.05,15360,1116
+Animation,Tamil,69,0.45,9.58,15360,720
+Animation,Czech,32,0.21,5.03,15360,636
+Film & Drama,English,2533,19.1,5.44,13262,46574
+Film & Drama,Portuguese,1040,7.84,5.02,13262,20720
+Film & Drama,Hindi,3700,27.9,18.89,13262,19582
+Film & Drama,Spanish,1385,10.44,8.14,13262,17006
+Film & Drama,French,234,1.76,2.39,13262,9774
+Film & Drama,Korean,672,5.07,8.61,13262,7802
+Film & Drama,Indonesian,1018,7.68,14.86,13262,6851
+Film & Drama,Japanese,218,1.64,4.59,13262,4748
+Film & Drama,Russian,229,1.73,4.91,13262,4666
+Film & Drama,Chinese,103,0.78,2.37,13262,4341
+Film & Drama,German,108,0.81,2.52,13262,4278
+Film & Drama,Arabic,603,4.55,16.01,13262,3767
+Film & Drama,Italian,81,0.61,2.24,13262,3611
+Film & Drama,Thai,485,3.66,14.16,13262,3425
+Film & Drama,Vietnamese,151,1.14,5.19,13262,2907
+Film & Drama,Turkish,254,1.92,10.62,13262,2391
+Film & Drama,Polish,24,0.18,1.15,13262,2094
+Film & Drama,Ukrainian,21,0.16,1.88,13262,1116
+Film & Drama,Tamil,59,0.44,8.19,13262,720
+Film & Drama,Czech,10,0.08,1.57,13262,636
+Gaming,English,2775,27.46,5.96,10104,46574
+Gaming,Portuguese,1150,11.38,5.55,10104,20720
+Gaming,Hindi,580,5.74,2.96,10104,19582
+Gaming,Spanish,851,8.42,5.0,10104,17006
+Gaming,French,348,3.44,3.56,10104,9774
+Gaming,Korean,332,3.29,4.26,10104,7802
+Gaming,Indonesian,299,2.96,4.36,10104,6851
+Gaming,Japanese,401,3.97,8.45,10104,4748
+Gaming,Russian,628,6.22,13.46,10104,4666
+Gaming,Chinese,199,1.97,4.58,10104,4341
+Gaming,German,432,4.28,10.1,10104,4278
+Gaming,Arabic,315,3.12,8.36,10104,3767
+Gaming,Italian,225,2.23,6.23,10104,3611
+Gaming,Thai,201,1.99,5.87,10104,3425
+Gaming,Vietnamese,257,2.54,8.84,10104,2907
+Gaming,Turkish,369,3.65,15.43,10104,2391
+Gaming,Polish,262,2.59,12.51,10104,2094
+Gaming,Ukrainian,52,0.51,4.66,10104,1116
+Gaming,Tamil,12,0.12,1.67,10104,720
+Gaming,Czech,82,0.81,12.89,10104,636
+Religion,English,2955,24.27,6.34,12174,46574
+Religion,Portuguese,2645,21.73,12.77,12174,20720
+Religion,Hindi,507,4.16,2.59,12174,19582
+Religion,Spanish,1471,12.08,8.65,12174,17006
+Religion,French,745,6.12,7.62,12174,9774
+Religion,Korean,285,2.34,3.65,12174,7802
+Religion,Indonesian,155,1.27,2.26,12174,6851
+Religion,Japanese,203,1.67,4.28,12174,4748
+Religion,Russian,645,5.3,13.82,12174,4666
+Religion,Chinese,291,2.39,6.7,12174,4341
+Religion,German,415,3.41,9.7,12174,4278
+Religion,Arabic,96,0.79,2.55,12174,3767
+Religion,Italian,481,3.95,13.32,12174,3611
+Religion,Thai,32,0.26,0.93,12174,3425
+Religion,Vietnamese,37,0.3,1.27,12174,2907
+Religion,Turkish,38,0.31,1.59,12174,2391
+Religion,Polish,189,1.55,9.03,12174,2094
+Religion,Ukrainian,97,0.8,8.69,12174,1116
+Religion,Tamil,22,0.18,3.06,12174,720
+Religion,Czech,7,0.06,1.1,12174,636
+Science & Tech,English,2508,27.02,5.38,9282,46574
+Science & Tech,Portuguese,866,9.33,4.18,9282,20720
+Science & Tech,Hindi,714,7.69,3.65,9282,19582
+Science & Tech,Spanish,890,9.59,5.23,9282,17006
+Science & Tech,French,554,5.97,5.67,9282,9774
+Science & Tech,Korean,914,9.85,11.71,9282,7802
+Science & Tech,Indonesian,278,3.0,4.06,9282,6851
+Science & Tech,Japanese,280,3.02,5.9,9282,4748
+Science & Tech,Russian,256,2.76,5.49,9282,4666
+Science & Tech,Chinese,150,1.62,3.46,9282,4341
+Science & Tech,German,258,2.78,6.03,9282,4278
+Science & Tech,Arabic,107,1.15,2.84,9282,3767
+Science & Tech,Italian,355,3.82,9.83,9282,3611
+Science & Tech,Thai,175,1.89,5.11,9282,3425
+Science & Tech,Vietnamese,89,0.96,3.06,9282,2907
+Science & Tech,Turkish,128,1.38,5.35,9282,2391
+Science & Tech,Polish,249,2.68,11.89,9282,2094
+Science & Tech,Ukrainian,101,1.09,9.05,9282,1116
+Science & Tech,Tamil,55,0.59,7.64,9282,720
+Science & Tech,Czech,151,1.63,23.74,9282,636
+Medical & Health,English,2667,29.17,5.73,9142,46574
+Medical & Health,Portuguese,1182,12.93,5.7,9142,20720
+Medical & Health,Hindi,548,5.99,2.8,9142,19582
+Medical & Health,Spanish,1046,11.44,6.15,9142,17006
+Medical & Health,French,254,2.78,2.6,9142,9774
+Medical & Health,Korean,165,1.8,2.11,9142,7802
+Medical & Health,Indonesian,301,3.29,4.39,9142,6851
+Medical & Health,Japanese,803,8.78,16.91,9142,4748
+Medical & Health,Russian,130,1.42,2.79,9142,4666
+Medical & Health,Chinese,530,5.8,12.21,9142,4341
+Medical & Health,German,279,3.05,6.52,9142,4278
+Medical & Health,Arabic,195,2.13,5.18,9142,3767
+Medical & Health,Italian,109,1.19,3.02,9142,3611
+Medical & Health,Thai,184,2.01,5.37,9142,3425
+Medical & Health,Vietnamese,200,2.19,6.88,9142,2907
+Medical & Health,Turkish,180,1.97,7.53,9142,2391
+Medical & Health,Polish,52,0.57,2.48,9142,2094
+Medical & Health,Ukrainian,51,0.56,4.57,9142,1116
+Medical & Health,Tamil,40,0.44,5.56,9142,720
+Medical & Health,Czech,6,0.07,0.94,9142,636
+Business & Finance,English,2775,35.31,5.96,7858,46574
+Business & Finance,Portuguese,1005,12.79,4.85,7858,20720
+Business & Finance,Hindi,312,3.97,1.59,7858,19582
+Business & Finance,Spanish,1057,13.45,6.22,7858,17006
+Business & Finance,French,312,3.97,3.19,7858,9774
+Business & Finance,Korean,360,4.58,4.61,7858,7802
+Business & Finance,Indonesian,293,3.73,4.28,7858,6851
+Business & Finance,Japanese,128,1.63,2.7,7858,4748
+Business & Finance,Russian,117,1.49,2.51,7858,4666
+Business & Finance,Chinese,332,4.22,7.65,7858,4341
+Business & Finance,German,188,2.39,4.39,7858,4278
+Business & Finance,Arabic,81,1.03,2.15,7858,3767
+Business & Finance,Italian,132,1.68,3.66,7858,3611
+Business & Finance,Thai,187,2.38,5.46,7858,3425
+Business & Finance,Vietnamese,92,1.17,3.16,7858,2907
+Business & Finance,Turkish,153,1.95,6.4,7858,2391
+Business & Finance,Polish,37,0.47,1.77,7858,2094
+Business & Finance,Ukrainian,41,0.52,3.67,7858,1116
+Business & Finance,Tamil,20,0.25,2.78,7858,720
+Business & Finance,Czech,24,0.31,3.77,7858,636
+Talk & Interview,English,2297,29.74,4.93,7724,46574
+Talk & Interview,Portuguese,1343,17.39,6.48,7724,20720
+Talk & Interview,Hindi,529,6.85,2.7,7724,19582
+Talk & Interview,Spanish,1008,13.05,5.93,7724,17006
+Talk & Interview,French,334,4.32,3.42,7724,9774
+Talk & Interview,Korean,353,4.57,4.52,7724,7802
+Talk & Interview,Indonesian,223,2.89,3.25,7724,6851
+Talk & Interview,Japanese,270,3.5,5.69,7724,4748
+Talk & Interview,Russian,253,3.28,5.42,7724,4666
+Talk & Interview,Chinese,183,2.37,4.22,7724,4341
+Talk & Interview,German,197,2.55,4.6,7724,4278
+Talk & Interview,Arabic,97,1.26,2.57,7724,3767
+Talk & Interview,Italian,101,1.31,2.8,7724,3611
+Talk & Interview,Thai,98,1.27,2.86,7724,3425
+Talk & Interview,Vietnamese,79,1.02,2.72,7724,2907
+Talk & Interview,Turkish,79,1.02,3.3,7724,2391
+Talk & Interview,Polish,62,0.8,2.96,7724,2094
+Talk & Interview,Ukrainian,47,0.61,4.21,7724,1116
+Talk & Interview,Tamil,26,0.34,3.61,7724,720
+Talk & Interview,Czech,13,0.17,2.04,7724,636
+Entertainment & Doc,English,1110,16.55,2.38,6705,46574
+Entertainment & Doc,Portuguese,657,9.8,3.17,6705,20720
+Entertainment & Doc,Hindi,1383,20.63,7.06,6705,19582
+Entertainment & Doc,Spanish,792,11.81,4.66,6705,17006
+Entertainment & Doc,French,1300,19.39,13.3,6705,9774
+Entertainment & Doc,Korean,158,2.36,2.03,6705,7802
+Entertainment & Doc,Indonesian,112,1.67,1.63,6705,6851
+Entertainment & Doc,Japanese,105,1.57,2.21,6705,4748
+Entertainment & Doc,Russian,99,1.48,2.12,6705,4666
+Entertainment & Doc,Chinese,111,1.66,2.56,6705,4341
+Entertainment & Doc,German,80,1.19,1.87,6705,4278
+Entertainment & Doc,Arabic,153,2.28,4.06,6705,3767
+Entertainment & Doc,Italian,86,1.28,2.38,6705,3611
+Entertainment & Doc,Thai,47,0.7,1.37,6705,3425
+Entertainment & Doc,Vietnamese,80,1.19,2.75,6705,2907
+Entertainment & Doc,Turkish,109,1.63,4.56,6705,2391
+Entertainment & Doc,Polish,33,0.49,1.58,6705,2094
+Entertainment & Doc,Ukrainian,118,1.76,10.57,6705,1116
+Entertainment & Doc,Tamil,26,0.39,3.61,6705,720
+Entertainment & Doc,Czech,5,0.07,0.79,6705,636
+News,English,1767,29.27,3.79,6036,46574
+News,Portuguese,799,13.24,3.86,6036,20720
+News,Hindi,339,5.62,1.73,6036,19582
+News,Spanish,736,12.19,4.33,6036,17006
+News,French,257,4.26,2.63,6036,9774
+News,Korean,405,6.71,5.19,6036,7802
+News,Indonesian,111,1.84,1.62,6036,6851
+News,Japanese,102,1.69,2.15,6036,4748
+News,Russian,211,3.5,4.52,6036,4666
+News,Chinese,156,2.58,3.59,6036,4341
+News,German,254,4.21,5.94,6036,4278
+News,Arabic,81,1.34,2.15,6036,3767
+News,Italian,104,1.72,2.88,6036,3611
+News,Thai,98,1.62,2.86,6036,3425
+News,Vietnamese,105,1.74,3.61,6036,2907
+News,Turkish,34,0.56,1.42,6036,2391
+News,Polish,159,2.63,7.59,6036,2094
+News,Ukrainian,72,1.19,6.45,6036,1116
+News,Tamil,35,0.58,4.86,6036,720
+News,Czech,46,0.76,7.23,6036,636
+Product Review,English,1450,21.63,3.11,6703,46574
+Product Review,Portuguese,379,5.65,1.83,6703,20720
+Product Review,Hindi,157,2.34,0.8,6703,19582
+Product Review,Spanish,596,8.89,3.5,6703,17006
+Product Review,French,428,6.39,4.38,6703,9774
+Product Review,Korean,103,1.54,1.32,6703,7802
+Product Review,Indonesian,352,5.25,5.14,6703,6851
+Product Review,Japanese,85,1.27,1.79,6703,4748
+Product Review,Russian,106,1.58,2.27,6703,4666
+Product Review,Chinese,237,3.54,5.46,6703,4341
+Product Review,German,262,3.91,6.12,6703,4278
+Product Review,Arabic,48,0.72,1.27,6703,3767
+Product Review,Italian,204,3.04,5.65,6703,3611
+Product Review,Thai,227,3.39,6.63,6703,3425
+Product Review,Vietnamese,245,3.66,8.43,6703,2907
+Product Review,Turkish,128,1.91,5.35,6703,2391
+Product Review,Polish,210,3.13,10.03,6703,2094
+Product Review,Ukrainian,24,0.36,2.15,6703,1116
+Product Review,Tamil,29,0.43,4.03,6703,720
+Product Review,Czech,105,1.57,16.51,6703,636
+Lifestyle,English,1970,30.62,4.23,6433,46574
+Lifestyle,Portuguese,605,9.4,2.92,6433,20720
+Lifestyle,Hindi,583,9.06,2.98,6433,19582
+Lifestyle,Spanish,699,10.87,4.11,6433,17006
+Lifestyle,French,273,4.24,2.79,6433,9774
+Lifestyle,Korean,507,7.88,6.5,6433,7802
+Lifestyle,Indonesian,167,2.6,2.44,6433,6851
+Lifestyle,Japanese,132,2.05,2.78,6433,4748
+Lifestyle,Russian,235,3.65,5.04,6433,4666
+Lifestyle,Chinese,136,2.11,3.13,6433,4341
+Lifestyle,German,204,3.17,4.77,6433,4278
+Lifestyle,Arabic,86,1.34,2.28,6433,3767
+Lifestyle,Italian,228,3.54,6.31,6433,3611
+Lifestyle,Thai,84,1.31,2.45,6433,3425
+Lifestyle,Vietnamese,67,1.04,2.3,6433,2907
+Lifestyle,Turkish,63,0.98,2.63,6433,2391
+Lifestyle,Polish,157,2.44,7.5,6433,2094
+Lifestyle,Ukrainian,43,0.67,3.85,6433,1116
+Lifestyle,Tamil,22,0.34,3.06,6433,720
+Lifestyle,Czech,17,0.26,2.67,6433,636
+Comedy,English,1506,27.88,3.23,5401,46574
+Comedy,Portuguese,415,7.68,2.0,5401,20720
+Comedy,Hindi,1494,27.66,7.63,5401,19582
+Comedy,Spanish,400,7.41,2.35,5401,17006
+Comedy,French,222,4.11,2.27,5401,9774
+Comedy,Korean,90,1.67,1.15,5401,7802
+Comedy,Indonesian,87,1.61,1.27,5401,6851
+Comedy,Japanese,86,1.59,1.81,5401,4748
+Comedy,Russian,241,4.46,5.17,5401,4666
+Comedy,Chinese,96,1.78,2.21,5401,4341
+Comedy,German,96,1.78,2.24,5401,4278
+Comedy,Arabic,73,1.35,1.94,5401,3767
+Comedy,Italian,102,1.89,2.82,5401,3611
+Comedy,Thai,65,1.2,1.9,5401,3425
+Comedy,Vietnamese,115,2.13,3.96,5401,2907
+Comedy,Turkish,67,1.24,2.8,5401,2391
+Comedy,Polish,78,1.44,3.72,5401,2094
+Comedy,Ukrainian,29,0.54,2.6,5401,1116
+Comedy,Tamil,26,0.48,3.61,5401,720
+Comedy,Czech,18,0.33,2.83,5401,636
+Sports & Fitness,English,1646,30.87,3.53,5332,46574
+Sports & Fitness,Portuguese,876,16.43,4.23,5332,20720
+Sports & Fitness,Hindi,302,5.66,1.54,5332,19582
+Sports & Fitness,Spanish,516,9.68,3.03,5332,17006
+Sports & Fitness,French,643,12.06,6.58,5332,9774
+Sports & Fitness,Korean,147,2.76,1.88,5332,7802
+Sports & Fitness,Indonesian,95,1.78,1.39,5332,6851
+Sports & Fitness,Japanese,196,3.68,4.13,5332,4748
+Sports & Fitness,Russian,176,3.3,3.77,5332,4666
+Sports & Fitness,Chinese,89,1.67,2.05,5332,4341
+Sports & Fitness,German,140,2.63,3.27,5332,4278
+Sports & Fitness,Arabic,80,1.5,2.12,5332,3767
+Sports & Fitness,Italian,60,1.13,1.66,5332,3611
+Sports & Fitness,Thai,50,0.94,1.46,5332,3425
+Sports & Fitness,Vietnamese,166,3.11,5.71,5332,2907
+Sports & Fitness,Turkish,33,0.62,1.38,5332,2391
+Sports & Fitness,Polish,29,0.54,1.38,5332,2094
+Sports & Fitness,Ukrainian,26,0.49,2.33,5332,1116
+Sports & Fitness,Tamil,7,0.13,0.97,5332,720
+Sports & Fitness,Czech,3,0.06,0.47,5332,636
+Food & Cooking,English,1422,39.51,3.05,3599,46574
+Food & Cooking,Portuguese,188,5.22,0.91,3599,20720
+Food & Cooking,Hindi,280,7.78,1.43,3599,19582
+Food & Cooking,Spanish,372,10.34,2.19,3599,17006
+Food & Cooking,French,125,3.47,1.28,3599,9774
+Food & Cooking,Korean,52,1.44,0.67,3599,7802
+Food & Cooking,Indonesian,236,6.56,3.44,3599,6851
+Food & Cooking,Japanese,65,1.81,1.37,3599,4748
+Food & Cooking,Russian,103,2.86,2.21,3599,4666
+Food & Cooking,Chinese,92,2.56,2.12,3599,4341
+Food & Cooking,German,124,3.45,2.9,3599,4278
+Food & Cooking,Arabic,53,1.47,1.41,3599,3767
+Food & Cooking,Italian,131,3.64,3.63,3599,3611
+Food & Cooking,Thai,51,1.42,1.49,3599,3425
+Food & Cooking,Vietnamese,84,2.33,2.89,3599,2907
+Food & Cooking,Turkish,16,0.44,0.67,3599,2391
+Food & Cooking,Polish,36,1.0,1.72,3599,2094
+Food & Cooking,Ukrainian,12,0.33,1.08,3599,1116
+Food & Cooking,Tamil,8,0.22,1.11,3599,720
+Food & Cooking,Czech,4,0.11,0.63,3599,636
+Beauty,English,1144,31.14,2.46,3674,46574
+Beauty,Portuguese,346,9.42,1.67,3674,20720
+Beauty,Hindi,56,1.52,0.29,3674,19582
+Beauty,Spanish,397,10.81,2.33,3674,17006
+Beauty,French,248,6.75,2.54,3674,9774
+Beauty,Korean,46,1.25,0.59,3674,7802
+Beauty,Indonesian,54,1.47,0.79,3674,6851
+Beauty,Japanese,301,8.19,6.34,3674,4748
+Beauty,Russian,39,1.06,0.84,3674,4666
+Beauty,Chinese,150,4.08,3.46,3674,4341
+Beauty,German,202,5.5,4.72,3674,4278
+Beauty,Arabic,61,1.66,1.62,3674,3767
+Beauty,Italian,207,5.63,5.73,3674,3611
+Beauty,Thai,70,1.91,2.04,3674,3425
+Beauty,Vietnamese,74,2.01,2.55,3674,2907
+Beauty,Turkish,23,0.63,0.96,3674,2391
+Beauty,Polish,76,2.07,3.63,3674,2094
+Beauty,Ukrainian,14,0.38,1.25,3674,1116
+Beauty,Tamil,2,0.05,0.28,3674,720
+Beauty,Czech,10,0.27,1.57,3674,636
+Pets & Animals,English,934,33.19,2.01,2814,46574
+Pets & Animals,Portuguese,98,3.48,0.47,2814,20720
+Pets & Animals,Hindi,381,13.54,1.95,2814,19582
+Pets & Animals,Spanish,292,10.38,1.72,2814,17006
+Pets & Animals,French,63,2.24,0.64,2814,9774
+Pets & Animals,Korean,96,3.41,1.23,2814,7802
+Pets & Animals,Indonesian,164,5.83,2.39,2814,6851
+Pets & Animals,Japanese,166,5.9,3.5,2814,4748
+Pets & Animals,Russian,19,0.68,0.41,2814,4666
+Pets & Animals,Chinese,116,4.12,2.67,2814,4341
+Pets & Animals,German,81,2.88,1.89,2814,4278
+Pets & Animals,Arabic,21,0.75,0.56,2814,3767
+Pets & Animals,Italian,12,0.43,0.33,2814,3611
+Pets & Animals,Thai,205,7.29,5.99,2814,3425
+Pets & Animals,Vietnamese,55,1.95,1.89,2814,2907
+Pets & Animals,Turkish,19,0.68,0.79,2814,2391
+Pets & Animals,Polish,25,0.89,1.19,2814,2094
+Pets & Animals,Ukrainian,4,0.14,0.36,2814,1116
+Pets & Animals,Tamil,15,0.53,2.08,2814,720
+Pets & Animals,Czech,5,0.18,0.79,2814,636
+Travel & Events,English,629,27.93,1.35,2252,46574
+Travel & Events,Portuguese,548,24.33,2.64,2252,20720
+Travel & Events,Hindi,129,5.73,0.66,2252,19582
+Travel & Events,Spanish,148,6.57,0.87,2252,17006
+Travel & Events,French,117,5.2,1.2,2252,9774
+Travel & Events,Korean,66,2.93,0.85,2252,7802
+Travel & Events,Indonesian,53,2.35,0.77,2252,6851
+Travel & Events,Japanese,45,2.0,0.95,2252,4748
+Travel & Events,Russian,80,3.55,1.71,2252,4666
+Travel & Events,Chinese,57,2.53,1.31,2252,4341
+Travel & Events,German,39,1.73,0.91,2252,4278
+Travel & Events,Arabic,58,2.58,1.54,2252,3767
+Travel & Events,Italian,15,0.67,0.42,2252,3611
+Travel & Events,Thai,42,1.87,1.23,2252,3425
+Travel & Events,Vietnamese,30,1.33,1.03,2252,2907
+Travel & Events,Turkish,17,0.75,0.71,2252,2391
+Travel & Events,Polish,13,0.58,0.62,2252,2094
+Travel & Events,Ukrainian,7,0.31,0.63,2252,1116
+Travel & Events,Tamil,68,3.02,9.44,2252,720
+Travel & Events,Czech,2,0.09,0.31,2252,636
+Other,English,6100,28.27,13.1,21576,46574
+Other,Portuguese,2204,10.22,10.64,21576,20720
+Other,Hindi,2111,9.78,10.78,21576,19582
+Other,Spanish,1883,8.73,11.07,21576,17006
+Other,French,1879,8.71,19.22,21576,9774
+Other,Korean,1581,7.33,20.26,21576,7802
+Other,Indonesian,521,2.41,7.6,21576,6851
+Other,Japanese,363,1.68,7.65,21576,4748
+Other,Russian,623,2.89,13.35,21576,4666
+Other,Chinese,453,2.1,10.44,21576,4341
+Other,German,483,2.24,11.29,21576,4278
+Other,Arabic,457,2.12,12.13,21576,3767
+Other,Italian,423,1.96,11.71,21576,3611
+Other,Thai,335,1.55,9.78,21576,3425
+Other,Vietnamese,419,1.94,14.41,21576,2907
+Other,Turkish,374,1.73,15.64,21576,2391
+Other,Polish,211,0.98,10.08,21576,2094
+Other,Ukrainian,194,0.9,17.38,21576,1116
+Other,Tamil,117,0.54,16.25,21576,720
+Other,Czech,69,0.32,10.85,21576,636

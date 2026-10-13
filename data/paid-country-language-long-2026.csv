@@ -1,0 +1,358 @@
+billing_country,target_language,paid_projects,dubbed_minutes,pct_of_country_minutes
+AE,English,97,178.0,43.0
+AE,Other languages (<5 projects each),14,177.0,42.86
+AE,Russian,9,32.0,7.79
+AE,Spanish,5,26.0,6.36
+AR,Spanish,67,507.0,76.37
+AR,English,20,94.0,14.2
+AR,French,12,32.0,4.87
+AR,Portuguese,7,27.0,4.1
+AR,Other languages (<5 projects each),3,3.0,0.46
+AT,English,172,2482.0,82.42
+AT,German,40,523.0,17.36
+AT,Other languages (<5 projects each),14,7.0,0.22
+BG,Spanish,64,231.0,40.99
+BG,English,89,207.0,36.78
+BG,Other languages (<5 projects each),17,89.0,15.89
+BG,German,9,36.0,6.33
+BR,Portuguese,4281,21605.0,42.48
+BR,Spanish,2489,9857.0,19.38
+BR,English,2293,6192.0,12.18
+BR,French,526,2282.0,4.49
+BR,Russian,604,2105.0,4.14
+BR,Italian,567,1938.0,3.81
+BR,German,479,1665.0,3.27
+BR,Japanese,111,1588.0,3.12
+BR,Polish,187,873.0,1.72
+BR,Dutch,240,818.0,1.61
+BR,Indonesian,158,648.0,1.27
+BR,Ukrainian,88,355.0,0.7
+BR,Hindi,86,353.0,0.69
+BR,Korean,31,117.0,0.23
+BR,Arabic,44,105.0,0.21
+BR,Chinese,24,76.0,0.15
+BR,Hungarian,35,68.0,0.13
+BR,Turkish,45,56.0,0.11
+BR,Vietnamese,7,48.0,0.09
+BR,Romanian,21,43.0,0.08
+BR,Filipino,25,30.0,0.06
+BR,Other languages (<5 projects each),28,20.0,0.04
+BR,Norwegian,5,7.0,0.01
+BR,Czech,7,5.0,0.01
+CA,English,432,3679.0,41.82
+CA,Spanish,227,2285.0,25.98
+CA,Russian,47,684.0,7.78
+CA,French,82,504.0,5.73
+CA,Chinese,34,353.0,4.01
+CA,Hindi,27,299.0,3.4
+CA,Arabic,22,266.0,3.02
+CA,Other languages (<5 projects each),15,236.0,2.68
+CA,Turkish,8,129.0,1.47
+CA,Japanese,8,113.0,1.29
+CA,Italian,7,111.0,1.26
+CA,Korean,6,66.0,0.75
+CA,German,17,52.0,0.59
+CA,Portuguese,5,19.0,0.21
+CH,Italian,36,525.0,33.95
+CH,French,62,388.0,25.1
+CH,English,77,232.0,14.98
+CH,Chinese,33,84.0,5.45
+CH,Hindi,33,84.0,5.45
+CH,Spanish,33,83.0,5.39
+CH,German,27,43.0,2.78
+CH,Czech,6,34.0,2.18
+CH,Dutch,37,27.0,1.74
+CH,Other languages (<5 projects each),6,26.0,1.7
+CH,Korean,5,12.0,0.79
+CH,Arabic,13,8.0,0.49
+CN,Other languages (<5 projects each),20,512.0,44.37
+CN,Spanish,11,176.0,15.27
+CN,Portuguese,8,170.0,14.74
+CN,Arabic,6,138.0,11.94
+CN,Chinese,16,97.0,8.36
+CN,English,26,41.0,3.52
+CN,Thai,7,21.0,1.79
+CO,Portuguese,617,2650.0,81.0
+CO,English,121,389.0,11.9
+CO,Spanish,114,194.0,5.94
+CO,Other languages (<5 projects each),2,22.0,0.67
+CO,German,5,16.0,0.49
+CZ,Czech,195,796.0,20.76
+CZ,German,166,714.0,18.63
+CZ,French,162,686.0,17.88
+CZ,Polish,160,680.0,17.74
+CZ,Spanish,143,654.0,17.07
+CZ,English,62,196.0,5.1
+CZ,Other languages (<5 projects each),16,45.0,1.18
+CZ,Chinese,7,20.0,0.52
+CZ,Arabic,6,17.0,0.44
+CZ,Hindi,5,14.0,0.37
+CZ,Hungarian,17,12.0,0.3
+DE,Russian,144,1841.0,21.51
+DE,German,367,1448.0,16.91
+DE,English,289,1318.0,15.4
+DE,French,82,667.0,7.79
+DE,Spanish,85,652.0,7.62
+DE,Italian,39,638.0,7.45
+DE,Dutch,59,510.0,5.96
+DE,Ukrainian,42,497.0,5.8
+DE,Polish,25,215.0,2.51
+DE,Danish,12,184.0,2.15
+DE,Portuguese,40,182.0,2.12
+DE,Norwegian,21,171.0,1.99
+DE,Hungarian,6,95.0,1.11
+DE,Other languages (<5 projects each),14,62.0,0.73
+DE,Japanese,24,40.0,0.47
+DE,Vietnamese,5,27.0,0.31
+DE,Turkish,11,8.0,0.09
+DE,Thai,5,6.0,0.07
+EG,English,357,1881.0,68.67
+EG,Other languages (<5 projects each),14,250.0,9.12
+EG,Hindi,9,119.0,4.35
+EG,French,7,101.0,3.67
+EG,Spanish,9,101.0,3.69
+EG,Portuguese,5,96.0,3.5
+EG,German,5,66.0,2.41
+EG,Japanese,6,63.0,2.31
+EG,Arabic,20,62.0,2.28
+ES,English,702,1791.0,54.4
+ES,Spanish,236,543.0,16.49
+ES,Italian,231,412.0,12.51
+ES,French,111,251.0,7.63
+ES,German,45,102.0,3.09
+ES,Polish,33,61.0,1.84
+ES,Russian,11,55.0,1.66
+ES,Other languages (<5 projects each),9,43.0,1.29
+ES,Portuguese,8,16.0,0.48
+ES,Dutch,7,11.0,0.33
+ES,Catalan,6,9.0,0.28
+FR,French,3168,9040.0,82.93
+FR,English,270,1172.0,10.75
+FR,Chinese,184,475.0,4.35
+FR,Spanish,47,95.0,0.88
+FR,German,22,80.0,0.74
+FR,Italian,9,15.0,0.14
+FR,Other languages (<5 projects each),15,13.0,0.12
+FR,Polish,11,7.0,0.06
+FR,Dutch,5,3.0,0.03
+GB,English,170,494.0,33.18
+GB,Spanish,116,341.0,22.92
+GB,French,117,210.0,14.09
+GB,German,109,161.0,10.81
+GB,Italian,103,123.0,8.27
+GB,Other languages (<5 projects each),24,64.0,4.29
+GB,Greek,17,61.0,4.11
+GB,Portuguese,11,25.0,1.69
+GB,Chinese,6,9.0,0.63
+GE,Russian,163,1297.0,41.99
+GE,English,166,1209.0,39.16
+GE,Spanish,26,358.0,11.59
+GE,Other languages (<5 projects each),12,224.0,7.26
+HK,English,159,225.0,72.78
+HK,Chinese,7,34.0,10.91
+HK,Dutch,9,21.0,6.82
+HK,Polish,21,14.0,4.64
+HK,Other languages (<5 projects each),16,9.0,2.78
+HK,French,15,6.0,2.07
+HU,Hungarian,48,649.0,61.17
+HU,English,171,247.0,23.27
+HU,German,49,151.0,14.2
+HU,French,12,9.0,0.87
+HU,Other languages (<5 projects each),2,5.0,0.48
+ID,Indonesian,215,1418.0,86.48
+ID,English,32,112.0,6.86
+ID,Russian,12,89.0,5.46
+ID,German,9,17.0,1.02
+ID,Other languages (<5 projects each),4,3.0,0.18
+IN,English,147,732.0,19.21
+IN,Hindi,253,477.0,12.53
+IN,Arabic,78,462.0,12.14
+IN,Tamil,113,448.0,11.76
+IN,French,165,359.0,9.43
+IN,Spanish,175,357.0,9.37
+IN,Other languages (<5 projects each),18,247.0,6.49
+IN,Russian,49,234.0,6.13
+IN,Telugu,27,117.0,3.06
+IN,Malayalam,20,86.0,2.25
+IN,Thai,8,80.0,2.09
+IN,Kannada,21,76.0,1.99
+IN,Hungarian,5,71.0,1.87
+IN,Marathi,24,54.0,1.43
+IN,Bengali,7,9.0,0.25
+IT,Italian,608,2851.0,48.72
+IT,English,827,2524.0,43.13
+IT,French,51,115.0,1.97
+IT,Portuguese,70,104.0,1.78
+IT,Romanian,7,92.0,1.58
+IT,Spanish,28,53.0,0.91
+IT,German,13,39.0,0.67
+IT,Other languages (<5 projects each),27,34.0,0.59
+IT,Czech,13,16.0,0.27
+IT,Chinese,7,13.0,0.22
+IT,Arabic,6,6.0,0.1
+IT,Hebrew,7,4.0,0.06
+KR,English,3420,8929.0,35.43
+KR,Korean,1323,7476.0,29.67
+KR,Chinese,740,3670.0,14.57
+KR,Japanese,1120,2907.0,11.54
+KR,French,64,530.0,2.11
+KR,Indonesian,167,486.0,1.93
+KR,Vietnamese,216,472.0,1.87
+KR,Spanish,107,308.0,1.22
+KR,Hindi,51,124.0,0.49
+KR,Russian,44,81.0,0.32
+KR,Thai,74,80.0,0.32
+KR,Portuguese,14,31.0,0.12
+KR,Malay,15,26.0,0.1
+KR,Arabic,17,18.0,0.07
+KR,Filipino,20,16.0,0.06
+KR,Other languages (<5 projects each),14,15.0,0.06
+KR,German,9,12.0,0.05
+KR,Malayalam,7,6.0,0.03
+KR,Turkish,7,5.0,0.02
+KR,Kazakh,5,2.0,0.01
+KR,Armenian,5,0.0,0.0
+KR,Georgian,5,0.0,0.0
+KR,Hebrew,5,0.0,0.0
+KR,Nepali,5,0.0,0.0
+KR,Urdu,5,0.0,0.0
+KZ,Korean,114,984.0,15.19
+KZ,English,200,722.0,11.14
+KZ,Portuguese,106,581.0,8.96
+KZ,Spanish,107,578.0,8.92
+KZ,Arabic,103,576.0,8.9
+KZ,Turkish,90,512.0,7.9
+KZ,Indonesian,64,507.0,7.82
+KZ,Polish,84,450.0,6.94
+KZ,Czech,69,341.0,5.26
+KZ,Russian,112,330.0,5.1
+KZ,Chinese,47,246.0,3.79
+KZ,German,41,228.0,3.51
+KZ,French,41,203.0,3.14
+KZ,Dutch,11,62.0,0.96
+KZ,Italian,7,40.0,0.62
+KZ,Kazakh,47,37.0,0.57
+KZ,Other languages (<5 projects each),4,30.0,0.46
+KZ,Vietnamese,15,28.0,0.43
+KZ,Hindi,6,25.0,0.39
+MA,Arabic,50,439.0,84.02
+MA,German,9,27.0,5.13
+MA,English,8,23.0,4.37
+MA,French,23,19.0,3.62
+MA,Other languages (<5 projects each),1,15.0,2.86
+MX,Spanish,195,398.0,26.88
+MX,English,193,238.0,16.04
+MX,Portuguese,21,146.0,9.85
+MX,Polish,8,122.0,8.22
+MX,Korean,9,112.0,7.57
+MX,Other languages (<5 projects each),9,95.0,6.42
+MX,French,14,86.0,5.8
+MX,German,9,80.0,5.42
+MX,Italian,6,75.0,5.04
+MX,Japanese,6,66.0,4.47
+MX,Arabic,5,64.0,4.3
+PL,English,340,805.0,29.15
+PL,Polish,410,615.0,22.24
+PL,German,233,306.0,11.06
+PL,Italian,225,258.0,9.34
+PL,Spanish,211,243.0,8.8
+PL,French,160,197.0,7.12
+PL,Other languages (<5 projects each),14,155.0,5.62
+PL,Turkish,6,78.0,2.82
+PL,Vietnamese,6,63.0,2.29
+PL,Chinese,5,43.0,1.56
+RO,Spanish,78,721.0,51.11
+RO,German,45,304.0,21.57
+RO,English,49,99.0,7.01
+RO,French,39,57.0,4.03
+RO,Romanian,43,56.0,3.94
+RO,Italian,40,51.0,3.64
+RO,Russian,34,48.0,3.38
+RO,Hungarian,65,32.0,2.25
+RO,Polish,37,20.0,1.44
+RO,Swedish,28,15.0,1.07
+RO,Other languages (<5 projects each),1,8.0,0.56
+SG,English,486,2485.0,86.32
+SG,Spanish,48,152.0,5.29
+SG,Other languages (<5 projects each),23,149.0,5.17
+SG,Vietnamese,8,39.0,1.35
+SG,German,17,30.0,1.03
+SG,Bulgarian,10,24.0,0.84
+SK,Slovak,60,662.0,54.5
+SK,English,25,253.0,20.79
+SK,Polish,17,163.0,13.44
+SK,Spanish,12,112.0,9.24
+SK,Hungarian,7,17.0,1.43
+SK,Other languages (<5 projects each),5,7.0,0.61
+TH,Thai,913,2595.0,75.03
+TH,English,317,697.0,20.14
+TH,Polish,57,61.0,1.77
+TH,Chinese,18,57.0,1.65
+TH,Other languages (<5 projects each),8,28.0,0.82
+TH,Korean,17,11.0,0.31
+TH,Spanish,11,10.0,0.28
+TR,Turkish,163,966.0,24.68
+TR,English,223,879.0,22.47
+TR,German,49,723.0,18.48
+TR,Spanish,281,610.0,15.59
+TR,Portuguese,19,315.0,8.05
+TR,French,14,193.0,4.93
+TR,Other languages (<5 projects each),26,77.0,1.97
+TR,Arabic,32,75.0,1.93
+TR,Russian,27,74.0,1.9
+TW,Arabic,36,838.0,67.67
+TW,English,56,276.0,22.27
+TW,Other languages (<5 projects each),16,110.0,8.87
+TW,Chinese,10,15.0,1.19
+UA,Ukrainian,218,750.0,30.12
+UA,Norwegian,120,376.0,15.11
+UA,Russian,171,343.0,13.76
+UA,English,117,257.0,10.34
+UA,Portuguese,37,221.0,8.87
+UA,Polish,58,136.0,5.46
+UA,Spanish,22,112.0,4.5
+UA,French,12,74.0,2.99
+UA,Other languages (<5 projects each),16,70.0,2.82
+UA,German,9,65.0,2.62
+UA,Romanian,6,41.0,1.67
+UA,Turkish,7,32.0,1.27
+UA,Arabic,9,12.0,0.48
+US,Spanish,919,4256.0,22.56
+US,English,1294,2646.0,14.03
+US,Chinese,261,1227.0,6.51
+US,Turkish,104,826.0,4.38
+US,Portuguese,178,818.0,4.34
+US,Vietnamese,161,805.0,4.27
+US,French,240,797.0,4.23
+US,Arabic,151,748.0,3.97
+US,Korean,97,608.0,3.22
+US,German,185,591.0,3.13
+US,Hindi,80,473.0,2.51
+US,Italian,129,461.0,2.44
+US,Thai,66,389.0,2.06
+US,Indonesian,60,350.0,1.85
+US,Romanian,69,337.0,1.79
+US,Czech,66,286.0,1.52
+US,Bulgarian,66,275.0,1.46
+US,Filipino,65,274.0,1.45
+US,Malay,119,258.0,1.37
+US,Slovak,62,251.0,1.33
+US,Croatian,64,250.0,1.32
+US,Swedish,63,250.0,1.33
+US,Hungarian,64,248.0,1.31
+US,Greek,63,247.0,1.31
+US,Danish,62,246.0,1.3
+US,Finnish,62,246.0,1.3
+US,Norwegian,62,244.0,1.29
+US,Japanese,96,173.0,0.92
+US,Russian,62,137.0,0.72
+US,Polish,23,100.0,0.53
+US,Ukrainian,12,20.0,0.1
+US,Other languages (<5 projects each),7,16.0,0.08
+US,Dutch,11,11.0,0.06
+VN,Vietnamese,501,594.0,40.32
+VN,Russian,20,483.0,32.77
+VN,English,116,345.0,23.4
+VN,Thai,22,21.0,1.45
+VN,Korean,15,17.0,1.12
+VN,Other languages (<5 projects each),6,14.0,0.93

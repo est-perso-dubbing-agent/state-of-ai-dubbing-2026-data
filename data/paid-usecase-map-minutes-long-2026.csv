@@ -1,0 +1,421 @@
+industry,target_language,paid_projects,dubbed_minutes,pct_of_industry_minutes,pct_of_language_minutes,industry_minutes_total,language_minutes_total,meets_guardrail_300min
+Education,English,2669,24908.0,43.72,26.47,56977.0,94109.0,True
+Education,Spanish,838,4369.0,7.67,12.17,56977.0,35896.0,True
+Education,Portuguese,994,5329.0,9.35,17.4,56977.0,30622.0,True
+Education,French,796,3914.0,6.87,18.93,56977.0,20678.0,True
+Education,Korean,477,1972.0,3.46,15.19,56977.0,12981.0,True
+Education,Chinese,382,2997.0,5.26,24.45,56977.0,12256.0,True
+Education,Japanese,372,3116.0,5.47,27.44,56977.0,11357.0,True
+Education,German,138,764.0,1.34,8.34,56977.0,9164.0,True
+Education,Italian,322,1984.0,3.48,23.37,56977.0,8489.0,True
+Education,Russian,97,364.0,0.64,4.3,56977.0,8460.0,True
+Education,Turkish,61,304.0,0.53,4.25,56977.0,7155.0,True
+Education,Hindi,318,1506.0,2.64,23.58,56977.0,6387.0,True
+Education,Thai,66,343.0,0.6,5.79,56977.0,5925.0,True
+Education,Vietnamese,202,719.0,1.26,13.63,56977.0,5276.0,True
+Education,Indonesian,83,290.0,0.51,5.57,56977.0,5211.0,False
+Education,Arabic,66,386.0,0.68,7.67,56977.0,5035.0,True
+Education,Polish,64,267.0,0.47,6.07,56977.0,4402.0,False
+Education,Filipino,67,2431.0,4.27,66.42,56977.0,3660.0,True
+Education,Ukrainian,48,653.0,1.15,24.13,56977.0,2706.0,True
+Education,Greek,6,27.0,0.05,1.43,56977.0,1888.0,False
+Animation,English,372,1054.0,11.15,1.12,9453.0,94109.0,True
+Animation,Spanish,194,734.0,7.76,2.04,9453.0,35896.0,True
+Animation,Portuguese,294,2404.0,25.43,7.85,9453.0,30622.0,True
+Animation,French,53,212.0,2.24,1.03,9453.0,20678.0,False
+Animation,Korean,158,1172.0,12.4,9.03,9453.0,12981.0,True
+Animation,Chinese,33,114.0,1.21,0.93,9453.0,12256.0,False
+Animation,Japanese,54,212.0,2.24,1.87,9453.0,11357.0,False
+Animation,German,32,131.0,1.39,1.43,9453.0,9164.0,False
+Animation,Italian,13,54.0,0.57,0.64,9453.0,8489.0,False
+Animation,Russian,7,86.0,0.91,1.02,9453.0,8460.0,False
+Animation,Turkish,20,144.0,1.52,2.01,9453.0,7155.0,False
+Animation,Hindi,36,135.0,1.43,2.11,9453.0,6387.0,False
+Animation,Thai,352,1174.0,12.42,19.81,9453.0,5925.0,True
+Animation,Vietnamese,88,241.0,2.55,4.57,9453.0,5276.0,False
+Animation,Indonesian,48,439.0,4.64,8.42,9453.0,5211.0,True
+Animation,Arabic,50,292.0,3.09,5.8,9453.0,5035.0,False
+Animation,Polish,16,69.0,0.73,1.57,9453.0,4402.0,False
+Animation,Filipino,4,8.0,0.08,0.22,9453.0,3660.0,False
+Animation,Ukrainian,2,3.0,0.03,0.11,9453.0,2706.0,False
+Animation,Greek,0,0,0.0,0.0,9453.0,1888.0,False
+Film & Drama,English,559,1572.0,15.38,1.67,10223.0,94109.0,True
+Film & Drama,Spanish,745,1809.0,17.7,5.04,10223.0,35896.0,True
+Film & Drama,Portuguese,241,1259.0,12.32,4.11,10223.0,30622.0,True
+Film & Drama,French,25,90.0,0.88,0.44,10223.0,20678.0,False
+Film & Drama,Korean,95,215.0,2.1,1.66,10223.0,12981.0,False
+Film & Drama,Chinese,17,37.0,0.36,0.3,10223.0,12256.0,False
+Film & Drama,Japanese,97,347.0,3.39,3.06,10223.0,11357.0,True
+Film & Drama,German,28,130.0,1.27,1.42,10223.0,9164.0,False
+Film & Drama,Italian,43,106.0,1.04,1.25,10223.0,8489.0,False
+Film & Drama,Russian,26,45.0,0.44,0.53,10223.0,8460.0,False
+Film & Drama,Turkish,13,15.0,0.15,0.21,10223.0,7155.0,False
+Film & Drama,Hindi,143,622.0,6.08,9.74,10223.0,6387.0,True
+Film & Drama,Thai,308,1128.0,11.03,19.04,10223.0,5925.0,True
+Film & Drama,Vietnamese,112,84.0,0.82,1.59,10223.0,5276.0,False
+Film & Drama,Indonesian,97,993.0,9.71,19.06,10223.0,5211.0,True
+Film & Drama,Arabic,61,1042.0,10.19,20.7,10223.0,5035.0,True
+Film & Drama,Polish,6,40.0,0.39,0.91,10223.0,4402.0,False
+Film & Drama,Filipino,28,458.0,4.48,12.51,10223.0,3660.0,True
+Film & Drama,Ukrainian,1,20.0,0.2,0.74,10223.0,2706.0,False
+Film & Drama,Greek,1,20.0,0.2,1.06,10223.0,1888.0,False
+Gaming,English,1247,7382.0,25.85,7.84,28552.0,94109.0,True
+Gaming,Spanish,394,3738.0,13.09,10.41,28552.0,35896.0,True
+Gaming,Portuguese,289,1878.0,6.58,6.13,28552.0,30622.0,True
+Gaming,French,135,941.0,3.3,4.55,28552.0,20678.0,True
+Gaming,Korean,53,648.0,2.27,4.99,28552.0,12981.0,True
+Gaming,Chinese,92,963.0,3.37,7.86,28552.0,12256.0,True
+Gaming,Japanese,131,1097.0,3.84,9.66,28552.0,11357.0,True
+Gaming,German,244,1320.0,4.62,14.4,28552.0,9164.0,True
+Gaming,Italian,84,601.0,2.1,7.08,28552.0,8489.0,True
+Gaming,Russian,205,2513.0,8.8,29.7,28552.0,8460.0,True
+Gaming,Turkish,134,1346.0,4.71,18.81,28552.0,7155.0,True
+Gaming,Hindi,65,692.0,2.42,10.83,28552.0,6387.0,True
+Gaming,Thai,102,533.0,1.87,9.0,28552.0,5925.0,True
+Gaming,Vietnamese,87,1187.0,4.16,22.5,28552.0,5276.0,True
+Gaming,Indonesian,68,647.0,2.27,12.42,28552.0,5211.0,True
+Gaming,Arabic,123,1024.0,3.59,20.34,28552.0,5035.0,True
+Gaming,Polish,102,770.0,2.7,17.49,28552.0,4402.0,True
+Gaming,Filipino,6,75.0,0.26,2.05,28552.0,3660.0,False
+Gaming,Ukrainian,19,91.0,0.32,3.36,28552.0,2706.0,False
+Gaming,Greek,1,15.0,0.05,0.79,28552.0,1888.0,False
+Religion,English,1895,6218.0,18.12,6.61,34320.0,94109.0,True
+Religion,Spanish,1012,5853.0,17.05,16.31,34320.0,35896.0,True
+Religion,Portuguese,311,1955.0,5.7,6.38,34320.0,30622.0,True
+Religion,French,591,3557.0,10.36,17.2,34320.0,20678.0,True
+Religion,Korean,203,1225.0,3.57,9.44,34320.0,12981.0,True
+Religion,Chinese,207,4191.0,12.21,34.2,34320.0,12256.0,True
+Religion,Japanese,66,927.0,2.7,8.16,34320.0,11357.0,True
+Religion,German,385,1328.0,3.87,14.49,34320.0,9164.0,True
+Religion,Italian,408,1517.0,4.42,17.87,34320.0,8489.0,True
+Religion,Russian,586,2177.0,6.34,25.73,34320.0,8460.0,True
+Religion,Turkish,11,89.0,0.26,1.24,34320.0,7155.0,False
+Religion,Hindi,222,844.0,2.46,13.21,34320.0,6387.0,True
+Religion,Thai,9,123.0,0.36,2.08,34320.0,5925.0,False
+Religion,Vietnamese,7,91.0,0.27,1.72,34320.0,5276.0,False
+Religion,Indonesian,11,15.0,0.04,0.29,34320.0,5211.0,False
+Religion,Arabic,28,234.0,0.68,4.65,34320.0,5035.0,False
+Religion,Polish,178,777.0,2.26,17.65,34320.0,4402.0,True
+Religion,Filipino,4,5.0,0.01,0.14,34320.0,3660.0,False
+Religion,Ukrainian,82,368.0,1.07,13.6,34320.0,2706.0,True
+Religion,Greek,221,1127.0,3.28,59.69,34320.0,1888.0,True
+Science & Tech,English,1216,6599.0,30.15,7.01,21889.0,94109.0,True
+Science & Tech,Spanish,420,1847.0,8.44,5.15,21889.0,35896.0,True
+Science & Tech,Portuguese,202,1608.0,7.35,5.25,21889.0,30622.0,True
+Science & Tech,French,367,1667.0,7.62,8.06,21889.0,20678.0,True
+Science & Tech,Korean,282,1472.0,6.72,11.34,21889.0,12981.0,True
+Science & Tech,Chinese,70,461.0,2.11,3.76,21889.0,12256.0,True
+Science & Tech,Japanese,130,797.0,3.64,7.02,21889.0,11357.0,True
+Science & Tech,German,189,915.0,4.18,9.98,21889.0,9164.0,True
+Science & Tech,Italian,297,1588.0,7.25,18.71,21889.0,8489.0,True
+Science & Tech,Russian,101,431.0,1.97,5.09,21889.0,8460.0,True
+Science & Tech,Turkish,59,647.0,2.96,9.04,21889.0,7155.0,True
+Science & Tech,Hindi,32,173.0,0.79,2.71,21889.0,6387.0,False
+Science & Tech,Thai,60,268.0,1.22,4.52,21889.0,5925.0,False
+Science & Tech,Vietnamese,31,178.0,0.81,3.37,21889.0,5276.0,False
+Science & Tech,Indonesian,102,235.0,1.07,4.51,21889.0,5211.0,False
+Science & Tech,Arabic,13,66.0,0.3,1.31,21889.0,5035.0,False
+Science & Tech,Polish,173,992.0,4.53,22.54,21889.0,4402.0,True
+Science & Tech,Filipino,9,149.0,0.68,4.07,21889.0,3660.0,False
+Science & Tech,Ukrainian,43,580.0,2.65,21.43,21889.0,2706.0,True
+Science & Tech,Greek,11,52.0,0.24,2.75,21889.0,1888.0,False
+Medical & Health,English,1782,14739.0,49.51,15.66,29770.0,94109.0,True
+Medical & Health,Spanish,589,2215.0,7.44,6.17,29770.0,35896.0,True
+Medical & Health,Portuguese,748,3636.0,12.21,11.87,29770.0,30622.0,True
+Medical & Health,French,103,323.0,1.08,1.56,29770.0,20678.0,True
+Medical & Health,Korean,65,449.0,1.51,3.46,29770.0,12981.0,True
+Medical & Health,Chinese,365,688.0,2.31,5.61,29770.0,12256.0,True
+Medical & Health,Japanese,660,1366.0,4.59,12.03,29770.0,11357.0,True
+Medical & Health,German,173,544.0,1.83,5.94,29770.0,9164.0,True
+Medical & Health,Italian,40,161.0,0.54,1.9,29770.0,8489.0,False
+Medical & Health,Russian,76,118.0,0.4,1.39,29770.0,8460.0,False
+Medical & Health,Turkish,85,3136.0,10.53,43.83,29770.0,7155.0,True
+Medical & Health,Hindi,90,379.0,1.27,5.93,29770.0,6387.0,True
+Medical & Health,Thai,147,480.0,1.61,8.1,29770.0,5925.0,True
+Medical & Health,Vietnamese,97,148.0,0.5,2.81,29770.0,5276.0,False
+Medical & Health,Indonesian,134,453.0,1.52,8.69,29770.0,5211.0,True
+Medical & Health,Arabic,54,298.0,1.0,5.92,29770.0,5035.0,False
+Medical & Health,Polish,28,77.0,0.26,1.75,29770.0,4402.0,False
+Medical & Health,Filipino,7,23.0,0.08,0.63,29770.0,3660.0,False
+Medical & Health,Ukrainian,30,206.0,0.69,7.61,29770.0,2706.0,False
+Medical & Health,Greek,1,5.0,0.02,0.26,29770.0,1888.0,False
+Business & Finance,English,1294,4828.0,34.03,5.13,14187.0,94109.0,True
+Business & Finance,Spanish,534,2574.0,18.14,7.17,14187.0,35896.0,True
+Business & Finance,Portuguese,224,1007.0,7.1,3.29,14187.0,30622.0,True
+Business & Finance,French,138,652.0,4.6,3.15,14187.0,20678.0,True
+Business & Finance,Korean,131,427.0,3.01,3.29,14187.0,12981.0,True
+Business & Finance,Chinese,200,847.0,5.97,6.91,14187.0,12256.0,True
+Business & Finance,Japanese,53,159.0,1.12,1.4,14187.0,11357.0,False
+Business & Finance,German,85,439.0,3.09,4.79,14187.0,9164.0,True
+Business & Finance,Italian,66,346.0,2.44,4.08,14187.0,8489.0,True
+Business & Finance,Russian,35,111.0,0.78,1.31,14187.0,8460.0,False
+Business & Finance,Turkish,38,306.0,2.16,4.28,14187.0,7155.0,True
+Business & Finance,Hindi,59,210.0,1.48,3.29,14187.0,6387.0,False
+Business & Finance,Thai,96,467.0,3.29,7.88,14187.0,5925.0,True
+Business & Finance,Vietnamese,26,73.0,0.51,1.38,14187.0,5276.0,False
+Business & Finance,Indonesian,164,741.0,5.22,14.22,14187.0,5211.0,True
+Business & Finance,Arabic,15,223.0,1.57,4.43,14187.0,5035.0,False
+Business & Finance,Polish,21,17.0,0.12,0.39,14187.0,4402.0,False
+Business & Finance,Filipino,12,115.0,0.81,3.14,14187.0,3660.0,False
+Business & Finance,Ukrainian,15,78.0,0.55,2.88,14187.0,2706.0,False
+Business & Finance,Greek,0,0,0.0,0.0,14187.0,1888.0,False
+Talk & Interview,English,686,3065.0,31.54,3.26,9719.0,94109.0,True
+Talk & Interview,Spanish,463,1770.0,18.21,4.93,9719.0,35896.0,True
+Talk & Interview,Portuguese,279,1054.0,10.84,3.44,9719.0,30622.0,True
+Talk & Interview,French,71,242.0,2.49,1.17,9719.0,20678.0,False
+Talk & Interview,Korean,84,325.0,3.34,2.5,9719.0,12981.0,True
+Talk & Interview,Chinese,37,195.0,2.01,1.59,9719.0,12256.0,False
+Talk & Interview,Japanese,119,975.0,10.03,8.59,9719.0,11357.0,True
+Talk & Interview,German,50,382.0,3.93,4.17,9719.0,9164.0,True
+Talk & Interview,Italian,38,82.0,0.84,0.97,9719.0,8489.0,False
+Talk & Interview,Russian,18,48.0,0.49,0.57,9719.0,8460.0,False
+Talk & Interview,Turkish,7,164.0,1.69,2.29,9719.0,7155.0,False
+Talk & Interview,Hindi,25,115.0,1.18,1.8,9719.0,6387.0,False
+Talk & Interview,Thai,31,122.0,1.26,2.06,9719.0,5925.0,False
+Talk & Interview,Vietnamese,47,529.0,5.44,10.03,9719.0,5276.0,True
+Talk & Interview,Indonesian,35,258.0,2.65,4.95,9719.0,5211.0,False
+Talk & Interview,Arabic,19,38.0,0.39,0.75,9719.0,5035.0,False
+Talk & Interview,Polish,13,50.0,0.51,1.14,9719.0,4402.0,False
+Talk & Interview,Filipino,3,2.0,0.02,0.05,9719.0,3660.0,False
+Talk & Interview,Ukrainian,6,28.0,0.29,1.03,9719.0,2706.0,False
+Talk & Interview,Greek,36,243.0,2.5,12.87,9719.0,1888.0,False
+Entertainment & Doc,English,239,1018.0,8.93,1.08,11399.0,94109.0,True
+Entertainment & Doc,Spanish,457,2140.0,18.77,5.96,11399.0,35896.0,True
+Entertainment & Doc,Portuguese,395,2169.0,19.03,7.08,11399.0,30622.0,True
+Entertainment & Doc,French,1080,3078.0,27.0,14.89,11399.0,20678.0,True
+Entertainment & Doc,Korean,60,247.0,2.17,1.9,11399.0,12981.0,False
+Entertainment & Doc,Chinese,27,96.0,0.84,0.78,11399.0,12256.0,False
+Entertainment & Doc,Japanese,71,298.0,2.61,2.62,11399.0,11357.0,False
+Entertainment & Doc,German,22,171.0,1.5,1.87,11399.0,9164.0,False
+Entertainment & Doc,Italian,41,237.0,2.08,2.79,11399.0,8489.0,False
+Entertainment & Doc,Russian,18,117.0,1.03,1.38,11399.0,8460.0,False
+Entertainment & Doc,Turkish,4,41.0,0.36,0.57,11399.0,7155.0,False
+Entertainment & Doc,Hindi,85,421.0,3.69,6.59,11399.0,6387.0,True
+Entertainment & Doc,Thai,16,50.0,0.44,0.84,11399.0,5925.0,False
+Entertainment & Doc,Vietnamese,46,123.0,1.08,2.33,11399.0,5276.0,False
+Entertainment & Doc,Indonesian,18,85.0,0.75,1.63,11399.0,5211.0,False
+Entertainment & Doc,Arabic,43,264.0,2.32,5.24,11399.0,5035.0,False
+Entertainment & Doc,Polish,10,66.0,0.58,1.5,11399.0,4402.0,False
+Entertainment & Doc,Filipino,3,3.0,0.03,0.08,11399.0,3660.0,False
+Entertainment & Doc,Ukrainian,79,385.0,3.38,14.23,11399.0,2706.0,True
+Entertainment & Doc,Greek,5,48.0,0.42,2.54,11399.0,1888.0,False
+News,English,463,2578.0,21.36,2.74,12072.0,94109.0,True
+News,Spanish,336,2108.0,17.46,5.87,12072.0,35896.0,True
+News,Portuguese,166,747.0,6.19,2.44,12072.0,30622.0,True
+News,French,100,440.0,3.64,2.13,12072.0,20678.0,True
+News,Korean,242,2780.0,23.03,21.42,12072.0,12981.0,True
+News,Chinese,48,181.0,1.5,1.48,12072.0,12256.0,False
+News,Japanese,42,107.0,0.89,0.94,12072.0,11357.0,False
+News,German,100,1002.0,8.3,10.93,12072.0,9164.0,True
+News,Italian,34,132.0,1.09,1.55,12072.0,8489.0,False
+News,Russian,31,492.0,4.08,5.82,12072.0,8460.0,True
+News,Turkish,9,35.0,0.29,0.49,12072.0,7155.0,False
+News,Hindi,36,110.0,0.91,1.72,12072.0,6387.0,False
+News,Thai,54,253.0,2.1,4.27,12072.0,5925.0,False
+News,Vietnamese,53,134.0,1.11,2.54,12072.0,5276.0,False
+News,Indonesian,20,61.0,0.51,1.17,12072.0,5211.0,False
+News,Arabic,19,102.0,0.84,2.03,12072.0,5035.0,False
+News,Polish,63,434.0,3.6,9.86,12072.0,4402.0,True
+News,Filipino,1,0,0.0,0.0,12072.0,3660.0,False
+News,Ukrainian,12,39.0,0.32,1.44,12072.0,2706.0,False
+News,Greek,1,5.0,0.04,0.26,12072.0,1888.0,False
+Product Review,English,721,1627.0,23.06,1.73,7054.0,94109.0,True
+Product Review,Spanish,345,426.0,6.04,1.19,7054.0,35896.0,True
+Product Review,Portuguese,96,114.0,1.62,0.37,7054.0,30622.0,False
+Product Review,French,304,411.0,5.83,1.99,7054.0,20678.0,True
+Product Review,Korean,27,58.0,0.82,0.45,7054.0,12981.0,False
+Product Review,Chinese,146,302.0,4.28,2.46,7054.0,12256.0,True
+Product Review,Japanese,52,82.0,1.16,0.72,7054.0,11357.0,False
+Product Review,German,182,387.0,5.49,4.22,7054.0,9164.0,True
+Product Review,Italian,156,177.0,2.51,2.09,7054.0,8489.0,False
+Product Review,Russian,53,92.0,1.3,1.09,7054.0,8460.0,False
+Product Review,Turkish,49,190.0,2.69,2.66,7054.0,7155.0,False
+Product Review,Hindi,9,10.0,0.14,0.16,7054.0,6387.0,False
+Product Review,Thai,77,188.0,2.67,3.17,7054.0,5925.0,False
+Product Review,Vietnamese,76,230.0,3.26,4.36,7054.0,5276.0,False
+Product Review,Indonesian,17,22.0,0.31,0.42,7054.0,5211.0,False
+Product Review,Arabic,3,8.0,0.11,0.16,7054.0,5035.0,False
+Product Review,Polish,161,161.0,2.28,3.66,7054.0,4402.0,False
+Product Review,Filipino,42,166.0,2.35,4.54,7054.0,3660.0,False
+Product Review,Ukrainian,9,9.0,0.13,0.33,7054.0,2706.0,False
+Product Review,Greek,45,188.0,2.67,9.96,7054.0,1888.0,False
+Lifestyle,English,647,1500.0,34.44,1.59,4356.0,94109.0,True
+Lifestyle,Spanish,331,628.0,14.42,1.75,4356.0,35896.0,True
+Lifestyle,Portuguese,116,196.0,4.5,0.64,4356.0,30622.0,False
+Lifestyle,French,153,257.0,5.9,1.24,4356.0,20678.0,False
+Lifestyle,Korean,266,407.0,9.34,3.14,4356.0,12981.0,True
+Lifestyle,Chinese,50,77.0,1.77,0.63,4356.0,12256.0,False
+Lifestyle,Japanese,48,302.0,6.93,2.66,4356.0,11357.0,True
+Lifestyle,German,123,146.0,3.35,1.59,4356.0,9164.0,False
+Lifestyle,Italian,162,239.0,5.49,2.82,4356.0,8489.0,False
+Lifestyle,Russian,19,38.0,0.87,0.45,4356.0,8460.0,False
+Lifestyle,Turkish,12,11.0,0.25,0.15,4356.0,7155.0,False
+Lifestyle,Hindi,20,34.0,0.78,0.53,4356.0,6387.0,False
+Lifestyle,Thai,22,25.0,0.57,0.42,4356.0,5925.0,False
+Lifestyle,Vietnamese,25,62.0,1.42,1.18,4356.0,5276.0,False
+Lifestyle,Indonesian,20,80.0,1.84,1.54,4356.0,5211.0,False
+Lifestyle,Arabic,15,18.0,0.41,0.36,4356.0,5035.0,False
+Lifestyle,Polish,135,150.0,3.44,3.41,4356.0,4402.0,False
+Lifestyle,Filipino,10,27.0,0.62,0.74,4356.0,3660.0,False
+Lifestyle,Ukrainian,10,18.0,0.41,0.67,4356.0,2706.0,False
+Lifestyle,Greek,4,8.0,0.18,0.42,4356.0,1888.0,False
+Comedy,English,264,598.0,24.6,0.64,2431.0,94109.0,True
+Comedy,Spanish,170,370.0,15.22,1.03,2431.0,35896.0,True
+Comedy,Portuguese,60,139.0,5.72,0.45,2431.0,30622.0,False
+Comedy,French,133,368.0,15.14,1.78,2431.0,20678.0,True
+Comedy,Korean,21,40.0,1.65,0.31,2431.0,12981.0,False
+Comedy,Chinese,28,51.0,2.1,0.42,2431.0,12256.0,False
+Comedy,Japanese,25,21.0,0.86,0.18,2431.0,11357.0,False
+Comedy,German,39,40.0,1.65,0.44,2431.0,9164.0,False
+Comedy,Italian,61,82.0,3.37,0.97,2431.0,8489.0,False
+Comedy,Russian,60,69.0,2.84,0.82,2431.0,8460.0,False
+Comedy,Turkish,16,59.0,2.43,0.82,2431.0,7155.0,False
+Comedy,Hindi,17,82.0,3.37,1.28,2431.0,6387.0,False
+Comedy,Thai,33,24.0,0.99,0.41,2431.0,5925.0,False
+Comedy,Vietnamese,82,90.0,3.7,1.71,2431.0,5276.0,False
+Comedy,Indonesian,9,41.0,1.69,0.79,2431.0,5211.0,False
+Comedy,Arabic,13,74.0,3.04,1.47,2431.0,5035.0,False
+Comedy,Polish,44,98.0,4.03,2.23,2431.0,4402.0,False
+Comedy,Filipino,1,9.0,0.37,0.25,2431.0,3660.0,False
+Comedy,Ukrainian,9,22.0,0.9,0.81,2431.0,2706.0,False
+Comedy,Greek,0,0,0.0,0.0,2431.0,1888.0,False
+Sports & Fitness,English,643,2675.0,34.6,2.84,7732.0,94109.0,True
+Sports & Fitness,Spanish,323,929.0,12.02,2.59,7732.0,35896.0,True
+Sports & Fitness,Portuguese,417,1766.0,22.84,5.77,7732.0,30622.0,True
+Sports & Fitness,French,102,163.0,2.11,0.79,7732.0,20678.0,False
+Sports & Fitness,Korean,62,192.0,2.48,1.48,7732.0,12981.0,False
+Sports & Fitness,Chinese,46,116.0,1.5,0.95,7732.0,12256.0,False
+Sports & Fitness,Japanese,169,503.0,6.51,4.43,7732.0,11357.0,True
+Sports & Fitness,German,87,92.0,1.19,1.0,7732.0,9164.0,False
+Sports & Fitness,Italian,31,58.0,0.75,0.68,7732.0,8489.0,False
+Sports & Fitness,Russian,98,846.0,10.94,10.0,7732.0,8460.0,True
+Sports & Fitness,Turkish,6,15.0,0.19,0.21,7732.0,7155.0,False
+Sports & Fitness,Hindi,13,20.0,0.26,0.31,7732.0,6387.0,False
+Sports & Fitness,Thai,15,18.0,0.23,0.3,7732.0,5925.0,False
+Sports & Fitness,Vietnamese,120,212.0,2.74,4.02,7732.0,5276.0,False
+Sports & Fitness,Indonesian,23,71.0,0.92,1.36,7732.0,5211.0,False
+Sports & Fitness,Arabic,45,25.0,0.32,0.5,7732.0,5035.0,False
+Sports & Fitness,Polish,4,14.0,0.18,0.32,7732.0,4402.0,False
+Sports & Fitness,Filipino,0,0,0.0,0.0,7732.0,3660.0,False
+Sports & Fitness,Ukrainian,0,0,0.0,0.0,7732.0,2706.0,False
+Sports & Fitness,Greek,0,0,0.0,0.0,7732.0,1888.0,False
+Food & Cooking,English,868,2251.0,60.28,2.39,3734.0,94109.0,True
+Food & Cooking,Spanish,197,447.0,11.97,1.25,3734.0,35896.0,True
+Food & Cooking,Portuguese,51,80.0,2.14,0.26,3734.0,30622.0,False
+Food & Cooking,French,68,155.0,4.15,0.75,3734.0,20678.0,False
+Food & Cooking,Korean,16,26.0,0.7,0.2,3734.0,12981.0,False
+Food & Cooking,Chinese,35,80.0,2.14,0.65,3734.0,12256.0,False
+Food & Cooking,Japanese,31,66.0,1.77,0.58,3734.0,11357.0,False
+Food & Cooking,German,63,82.0,2.2,0.89,3734.0,9164.0,False
+Food & Cooking,Italian,71,89.0,2.38,1.05,3734.0,8489.0,False
+Food & Cooking,Russian,37,60.0,1.61,0.71,3734.0,8460.0,False
+Food & Cooking,Turkish,2,5.0,0.13,0.07,3734.0,7155.0,False
+Food & Cooking,Hindi,17,27.0,0.72,0.42,3734.0,6387.0,False
+Food & Cooking,Thai,15,20.0,0.54,0.34,3734.0,5925.0,False
+Food & Cooking,Vietnamese,33,83.0,2.22,1.57,3734.0,5276.0,False
+Food & Cooking,Indonesian,25,66.0,1.77,1.27,3734.0,5211.0,False
+Food & Cooking,Arabic,13,72.0,1.93,1.43,3734.0,5035.0,False
+Food & Cooking,Polish,27,36.0,0.96,0.82,3734.0,4402.0,False
+Food & Cooking,Filipino,6,8.0,0.21,0.22,3734.0,3660.0,False
+Food & Cooking,Ukrainian,1,3.0,0.08,0.11,3734.0,2706.0,False
+Food & Cooking,Greek,0,0,0.0,0.0,3734.0,1888.0,False
+Beauty,English,693,1351.0,39.13,1.44,3453.0,94109.0,True
+Beauty,Spanish,183,280.0,8.11,0.78,3453.0,35896.0,False
+Beauty,Portuguese,153,188.0,5.44,0.61,3453.0,30622.0,False
+Beauty,French,162,370.0,10.72,1.79,3453.0,20678.0,True
+Beauty,Korean,14,50.0,1.45,0.39,3453.0,12981.0,False
+Beauty,Chinese,77,109.0,3.16,0.89,3453.0,12256.0,False
+Beauty,Japanese,235,247.0,7.15,2.17,3453.0,11357.0,False
+Beauty,German,160,237.0,6.86,2.59,3453.0,9164.0,False
+Beauty,Italian,172,188.0,5.44,2.21,3453.0,8489.0,False
+Beauty,Russian,14,19.0,0.55,0.22,3453.0,8460.0,False
+Beauty,Turkish,8,31.0,0.9,0.43,3453.0,7155.0,False
+Beauty,Hindi,10,4.0,0.12,0.06,3453.0,6387.0,False
+Beauty,Thai,12,12.0,0.35,0.2,3453.0,5925.0,False
+Beauty,Vietnamese,27,46.0,1.33,0.87,3453.0,5276.0,False
+Beauty,Indonesian,22,61.0,1.77,1.17,3453.0,5211.0,False
+Beauty,Arabic,31,75.0,2.17,1.49,3453.0,5035.0,False
+Beauty,Polish,63,61.0,1.77,1.39,3453.0,4402.0,False
+Beauty,Filipino,2,5.0,0.14,0.14,3453.0,3660.0,False
+Beauty,Ukrainian,3,2.0,0.06,0.07,3453.0,2706.0,False
+Beauty,Greek,1,5.0,0.14,0.26,3453.0,1888.0,False
+Pets & Animals,English,222,494.0,22.64,0.52,2182.0,94109.0,True
+Pets & Animals,Spanish,114,240.0,11.0,0.67,2182.0,35896.0,False
+Pets & Animals,Portuguese,29,92.0,4.22,0.3,2182.0,30622.0,False
+Pets & Animals,French,7,7.0,0.32,0.03,2182.0,20678.0,False
+Pets & Animals,Korean,49,38.0,1.74,0.29,2182.0,12981.0,False
+Pets & Animals,Chinese,72,137.0,6.28,1.12,2182.0,12256.0,False
+Pets & Animals,Japanese,78,130.0,5.96,1.14,2182.0,11357.0,False
+Pets & Animals,German,24,74.0,3.39,0.81,2182.0,9164.0,False
+Pets & Animals,Italian,6,5.0,0.23,0.06,2182.0,8489.0,False
+Pets & Animals,Russian,3,2.0,0.09,0.02,2182.0,8460.0,False
+Pets & Animals,Turkish,3,50.0,2.29,0.7,2182.0,7155.0,False
+Pets & Animals,Hindi,174,480.0,22.0,7.52,2182.0,6387.0,True
+Pets & Animals,Thai,181,61.0,2.8,1.03,2182.0,5925.0,False
+Pets & Animals,Vietnamese,39,114.0,5.22,2.16,2182.0,5276.0,False
+Pets & Animals,Indonesian,63,131.0,6.0,2.51,2182.0,5211.0,False
+Pets & Animals,Arabic,5,38.0,1.74,0.75,2182.0,5035.0,False
+Pets & Animals,Polish,17,23.0,1.05,0.52,2182.0,4402.0,False
+Pets & Animals,Filipino,0,0,0.0,0.0,2182.0,3660.0,False
+Pets & Animals,Ukrainian,3,3.0,0.14,0.11,2182.0,2706.0,False
+Pets & Animals,Greek,0,0,0.0,0.0,2182.0,1888.0,False
+Travel & Events,English,266,816.0,15.37,0.87,5310.0,94109.0,True
+Travel & Events,Spanish,70,342.0,6.44,0.95,5310.0,35896.0,True
+Travel & Events,Portuguese,360,2228.0,41.96,7.28,5310.0,30622.0,True
+Travel & Events,French,69,291.0,5.48,1.41,5310.0,20678.0,False
+Travel & Events,Korean,26,86.0,1.62,0.66,5310.0,12981.0,False
+Travel & Events,Chinese,26,101.0,1.9,0.82,5310.0,12256.0,False
+Travel & Events,Japanese,16,68.0,1.28,0.6,5310.0,11357.0,False
+Travel & Events,German,12,80.0,1.51,0.87,5310.0,9164.0,False
+Travel & Events,Italian,6,5.0,0.09,0.06,5310.0,8489.0,False
+Travel & Events,Russian,47,189.0,3.56,2.23,5310.0,8460.0,False
+Travel & Events,Turkish,3,32.0,0.6,0.45,5310.0,7155.0,False
+Travel & Events,Hindi,13,89.0,1.68,1.39,5310.0,6387.0,False
+Travel & Events,Thai,13,16.0,0.3,0.27,5310.0,5925.0,False
+Travel & Events,Vietnamese,17,73.0,1.37,1.38,5310.0,5276.0,False
+Travel & Events,Indonesian,9,62.0,1.17,1.19,5310.0,5211.0,False
+Travel & Events,Arabic,27,122.0,2.3,2.42,5310.0,5035.0,False
+Travel & Events,Polish,6,61.0,1.15,1.39,5310.0,4402.0,False
+Travel & Events,Filipino,3,17.0,0.32,0.46,5310.0,3660.0,False
+Travel & Events,Ukrainian,0,0,0.0,0.0,5310.0,2706.0,False
+Travel & Events,Greek,2,9.0,0.17,0.48,5310.0,1888.0,False
+Other,English,1648,5494.0,25.59,5.84,21469.0,94109.0,True
+Other,Spanish,643,2374.0,11.06,6.61,21469.0,35896.0,True
+Other,Portuguese,515,2405.0,11.2,7.85,21469.0,30622.0,True
+Other,French,1300,3311.0,15.42,16.01,21469.0,20678.0,True
+Other,Korean,278,890.0,4.15,6.86,21469.0,12981.0,True
+Other,Chinese,153,458.0,2.13,3.74,21469.0,12256.0,True
+Other,Japanese,91,402.0,1.87,3.54,21469.0,11357.0,True
+Other,German,178,664.0,3.09,7.25,21469.0,9164.0,True
+Other,Italian,204,789.0,3.68,9.29,21469.0,8489.0,True
+Other,Russian,128,509.0,2.37,6.02,21469.0,8460.0,True
+Other,Turkish,86,410.0,1.91,5.73,21469.0,7155.0,True
+Other,Hindi,69,382.0,1.78,5.98,21469.0,6387.0,True
+Other,Thai,72,268.0,1.25,4.52,21469.0,5925.0,False
+Other,Vietnamese,244,817.0,3.81,15.49,21469.0,5276.0,True
+Other,Indonesian,57,264.0,1.23,5.07,21469.0,5211.0,False
+Other,Arabic,97,521.0,2.43,10.35,21469.0,5035.0,True
+Other,Polish,90,191.0,0.89,4.34,21469.0,4402.0,False
+Other,Filipino,13,67.0,0.31,1.83,21469.0,3660.0,False
+Other,Ukrainian,43,183.0,0.85,6.76,21469.0,2706.0,False
+Other,Greek,24,109.0,0.51,5.77,21469.0,1888.0,False
+Uncategorized,English,1163,3339.0,47.99,3.55,6958.0,94109.0,True
+Uncategorized,Spanish,532,702.0,10.09,1.96,6958.0,35896.0,True
+Uncategorized,Portuguese,171,364.0,5.23,1.19,6958.0,30622.0,True
+Uncategorized,French,92,228.0,3.28,1.1,6958.0,20678.0,False
+Uncategorized,Korean,147,262.0,3.77,2.02,6958.0,12981.0,False
+Uncategorized,Chinese,59,56.0,0.8,0.46,6958.0,12256.0,False
+Uncategorized,Japanese,40,136.0,1.95,1.2,6958.0,11357.0,False
+Uncategorized,German,54,238.0,3.42,2.6,6958.0,9164.0,False
+Uncategorized,Italian,32,48.0,0.69,0.57,6958.0,8489.0,False
+Uncategorized,Russian,58,134.0,1.93,1.58,6958.0,8460.0,False
+Uncategorized,Turkish,27,123.0,1.77,1.72,6958.0,7155.0,False
+Uncategorized,Hindi,28,52.0,0.75,0.81,6958.0,6387.0,False
+Uncategorized,Thai,61,353.0,5.07,5.96,6958.0,5925.0,True
+Uncategorized,Vietnamese,34,42.0,0.6,0.8,6958.0,5276.0,False
+Uncategorized,Indonesian,22,195.0,2.8,3.74,6958.0,5211.0,False
+Uncategorized,Arabic,16,114.0,1.64,2.26,6958.0,5035.0,False
+Uncategorized,Polish,32,49.0,0.7,1.11,6958.0,4402.0,False
+Uncategorized,Filipino,11,90.0,1.29,2.46,6958.0,3660.0,False
+Uncategorized,Ukrainian,10,15.0,0.22,0.55,6958.0,2706.0,False
+Uncategorized,Greek,8,28.0,0.4,1.48,6958.0,1888.0,False

@@ -1,0 +1,40 @@
+billing_country,paid_creators_non_additive,paid_projects,dubbed_minutes,pct_of_matched_selfserve_paid_minutes,pct_of_all_paid_minutes,meets_guardrail_10creators_300min,unique_target_languages,avg_target_languages_per_creator,top_target_lang_1,top_target_lang_1_pct,top_target_lang_2,top_target_lang_2_pct,top_target_lang_3,top_target_lang_3_pct,top_industry_1,top_industry_1_pct,top_industry_2,top_industry_2_pct,top_industry_3,top_industry_3_pct
+BR,422,12381,50854.0,24.06,16.77,True,36,1.81,Portuguese,42.5,Spanish,19.4,English,12.2,Religion,26.6,Education,15.0,Business & Finance,7.4
+KR,316,7459,25198.0,11.92,8.31,True,31,2.0,English,35.4,Korean,29.7,Chinese,14.6,Education,17.7,Religion,14.0,Medical & Health,13.2
+US,361,5023,18862.0,8.92,6.22,True,35,1.53,Spanish,22.6,English,14.0,Chinese,6.5,Product Review,17.6,Education,14.2,Gaming,12.3
+FR,84,3731,10901.0,5.16,3.59,True,14,1.43,French,82.9,English,10.8,Chinese,4.4,Education,27.5,Entertainment & Doc,25.8,Business & Finance,7.0
+CA,58,937,8796.0,4.16,2.9,True,21,1.83,English,41.8,Spanish,26.0,Russian,7.8,Gaming,67.4,Religion,8.4,Science & Tech,7.1
+DE,101,1270,8560.0,4.05,2.82,True,24,1.72,Russian,21.5,German,16.9,English,15.4,Gaming,29.1,Business & Finance,18.4,Science & Tech,12.3
+KZ,52,1268,6478.0,3.06,2.14,True,20,1.87,Korean,15.2,English,11.1,Portuguese,9.0,Gaming,46.8,Animation,32.8,Comedy,5.6
+IT,48,1664,5852.0,2.77,1.93,True,23,2.21,Italian,48.7,English,43.1,French,2.0,Religion,26.5,Science & Tech,23.8,Education,19.6
+TR,47,834,3912.0,1.85,1.29,True,17,1.89,Turkish,24.7,English,22.5,German,18.5,Business & Finance,14.3,Education,14.1,News,11.8
+CZ,14,939,3834.0,1.81,1.26,True,14,2.71,Czech,20.8,German,18.6,French,17.9,Science & Tech,73.3,News,13.3,Uncategorized,5.0
+IN,48,1110,3809.0,1.8,1.26,True,28,2.17,English,19.2,Hindi,12.5,Arabic,12.1,Travel & Events,30.8,Film & Drama,10.3,Food & Cooking,10.1
+TH,117,1341,3459.0,1.64,1.14,True,12,1.23,Thai,75.0,English,20.2,Polish,1.8,Business & Finance,21.7,Education,15.9,Medical & Health,14.1
+ES,79,1399,3292.0,1.56,1.09,True,17,1.53,English,54.4,Spanish,16.5,Italian,12.5,Business & Finance,22.6,Beauty,9.8,Education,8.5
+CO,24,859,3272.0,1.55,1.08,True,6,1.08,Portuguese,81.0,English,11.9,Spanish,5.9,Medical & Health,79.0,Education,6.4,Pets & Animals,5.7
+GE,10,367,3088.0,1.46,1.02,True,8,2.1,Russian,42.0,English,39.2,Spanish,11.6,Sports & Fitness,56.1,Education,9.6,Entertainment & Doc,3.9
+AT,10,226,3012.0,1.42,0.99,True,7,1.5,English,82.4,German,17.4,French,0.1,News,58.8,Uncategorized,15.2,Talk & Interview,13.3
+SG,12,592,2878.0,1.36,0.95,True,16,2.0,English,86.3,Spanish,5.3,Russian,1.6,Talk & Interview,45.2,Lifestyle,12.6,Comedy,8.5
+PL,38,1610,2763.0,1.31,0.91,True,18,1.89,English,29.1,Polish,22.3,German,11.1,Gaming,19.7,Lifestyle,19.7,Sports & Fitness,13.9
+EG,11,432,2740.0,1.3,0.9,True,15,3.09,English,68.6,Hindi,4.3,French,3.7,Product Review,28.9,Science & Tech,19.8,Animation,13.1
+UA,83,802,2490.0,1.18,0.82,True,18,1.48,Ukrainian,30.1,Norwegian,15.1,Russian,13.8,News,23.8,Entertainment & Doc,23.1,Education,9.0
+ID,23,272,1640.0,0.78,0.54,True,6,1.17,Indonesian,86.5,English,6.8,Russian,5.4,Film & Drama,58.3,Uncategorized,11.9,Science & Tech,7.4
+CH,34,368,1547.0,0.73,0.51,True,14,1.65,Italian,33.9,French,25.1,English,15.0,Education,40.6,Business & Finance,34.6,Science & Tech,3.4
+GB,37,673,1489.0,0.7,0.49,True,18,1.57,English,33.2,Spanish,22.9,French,14.1,Science & Tech,27.5,Product Review,14.0,Business & Finance,12.1
+MX,57,475,1482.0,0.7,0.49,True,15,1.54,Spanish,26.9,English,16.1,Portuguese,9.9,News,26.5,Science & Tech,13.4,Education,12.2
+VN,28,680,1474.0,0.7,0.49,True,9,1.32,Vietnamese,40.3,Russian,32.8,English,23.4,News,31.6,Film & Drama,18.1,Sports & Fitness,13.8
+RO,13,459,1410.0,0.67,0.46,True,11,2.15,Spanish,51.1,German,21.6,English,7.0,Product Review,21.7,Entertainment & Doc,18.3,Food & Cooking,13.1
+TW,19,118,1238.0,0.59,0.41,True,10,1.32,Arabic,67.7,English,22.3,Thai,2.0,Film & Drama,66.3,Business & Finance,8.6,Science & Tech,8.1
+SK,10,126,1215.0,0.57,0.4,True,7,1.9,Slovak,54.5,English,20.8,Polish,13.4,Religion,54.2,News,42.6,Talk & Interview,0.9
+CN,15,94,1154.0,0.55,0.38,True,22,2.67,Spanish,15.3,Portuguese,14.7,Arabic,12.0,Gaming,56.7,Film & Drama,27.9,Business & Finance,6.3
+HU,11,282,1061.0,0.5,0.35,True,5,1.27,Hungarian,61.2,English,23.3,German,14.2,Animation,58.1,Medical & Health,14.4,Product Review,2.4
+AR,14,109,663.0,0.31,0.22,True,6,1.21,Spanish,76.5,English,14.2,French,4.8,Education,71.6,Gaming,14.0,Medical & Health,4.4
+BG,11,179,563.0,0.27,0.19,True,11,2.27,Spanish,41.0,English,36.8,German,6.4,Sports & Fitness,53.6,Religion,26.1,Education,7.1
+MA,11,91,523.0,0.25,0.17,True,5,1.45,Arabic,83.9,German,5.2,English,4.4,Film & Drama,61.6,Uncategorized,17.0,Entertainment & Doc,4.0
+AE,20,125,414.0,0.2,0.14,True,11,1.65,English,43.0,Turkish,10.6,Russian,7.7,Business & Finance,28.7,Entertainment & Doc,15.2,Medical & Health,5.6
+HK,15,227,309.0,0.15,0.1,True,11,1.47,English,72.8,Chinese,11.0,Dutch,6.8,Science & Tech,23.9,Comedy,18.4,News,12.6
+Other countries below guardrail (72 countries),289,4773,21151.0,10.01,6.97,False,,,,,,,,,,,,,,
+All matched self-serve (billing country available; 90.7% of self-serve paying creators),2542,53295,211381.0,100.0,69.71,False,,,,,,,,,,,,,,
+"Self-serve paid, billing country unmatched",261,6343,20529.0,,6.77,False,,,,,,,,,,,,,,
+Enterprise contracts (invoiced outside Stripe; country not available),111,7208,71331.0,,23.52,False,,,,,,,,,,,,,,

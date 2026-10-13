@@ -1,0 +1,47 @@
+finding,scope,cell,denominator_n,numerator_k,pct,ci95_pp
+F1 Religion dual hub,"v1 cumulative categorized (Oct25-Aug26, all cohort)",Religion -> English,12174,2955,24.3,0.8
+F1 Religion dual hub,"v1 cumulative categorized (Oct25-Aug26, all cohort)",Religion -> Portuguese,12174,2645,21.7,0.7
+F1 Religion dual hub,"v1 cumulative categorized (Oct25-Aug26, all cohort)",Religion -> Spanish,12174,1471,12.1,0.6
+F2 Korean-target ranking (Science & Tech),"v1 cumulative categorized (Oct25-Aug26, all cohort)",Science & Tech -> Korean,9282,914,9.8,0.6
+F2 Korean-target ranking (Science & Tech),"v1 cumulative categorized (Oct25-Aug26, all cohort)",Science & Tech -> Spanish,9282,890,9.6,0.6
+F2 Korean-target ranking (Science & Tech),"v1 cumulative categorized (Oct25-Aug26, all cohort)",Science & Tech -> English,9282,2508,27.0,0.9
+F2 Korean-target ranking (Science & Tech),"v1 cumulative categorized (Oct25-Aug26, all cohort)",Science & Tech -> Chinese,9282,150,1.6,0.3
+F2 Korean-target ranking (Science & Tech),"v1 cumulative categorized (Oct25-Aug26, all cohort)",Science & Tech -> Japanese,9282,280,3.0,0.3
+F2b Korean-target mix,"v1 cumulative categorized (Oct25-Aug26, all cohort)",Korean-target -> Science & Tech,7802,914,11.7,0.7
+F2b Korean-target mix,"v1 cumulative categorized (Oct25-Aug26, all cohort)",Korean-target -> Education,7802,889,11.4,0.7
+F2b Korean-target mix,"v1 cumulative categorized (Oct25-Aug26, all cohort)",Korean-target -> Religion,7802,285,3.7,0.4
+F2b Korean-target mix,"v1 cumulative categorized (Oct25-Aug26, all cohort)",Korean-target -> Medical & Health,7802,165,2.1,0.3
+F1 Religion dual hub,paid cohort (Dec25-Aug26),Religion -> English,6823,1895,27.8,1.1
+F1 Religion dual hub,paid cohort (Dec25-Aug26),Religion -> Portuguese,6823,311,4.6,0.5
+F1 Religion dual hub,paid cohort (Dec25-Aug26),Religion -> Spanish,6823,1012,14.8,0.8
+F2 Korean-target ranking (Science & Tech),paid cohort (Dec25-Aug26),Science & Tech -> Korean,4027,282,7.0,0.8
+F2 Korean-target ranking (Science & Tech),paid cohort (Dec25-Aug26),Science & Tech -> Spanish,4027,420,10.4,0.9
+F2 Korean-target ranking (Science & Tech),paid cohort (Dec25-Aug26),Science & Tech -> English,4027,1216,30.2,1.4
+F2 Korean-target ranking (Science & Tech),paid cohort (Dec25-Aug26),Science & Tech -> Chinese,4027,70,1.7,0.4
+F2 Korean-target ranking (Science & Tech),paid cohort (Dec25-Aug26),Science & Tech -> Japanese,4027,130,3.2,0.5
+F2b Korean-target mix,paid cohort (Dec25-Aug26),Korean-target -> Science & Tech,2756,282,10.2,1.1
+F2b Korean-target mix,paid cohort (Dec25-Aug26),Korean-target -> Education,2756,477,17.3,1.4
+F2b Korean-target mix,paid cohort (Dec25-Aug26),Korean-target -> Religion,2756,203,7.4,1.0
+F2b Korean-target mix,paid cohort (Dec25-Aug26),Korean-target -> Medical & Health,2756,65,2.4,0.6
+F1 Religion dual hub,free cohort (Dec25-Aug26),Religion -> English,2719,560,20.6,1.5
+F1 Religion dual hub,free cohort (Dec25-Aug26),Religion -> Portuguese,2719,1467,54.0,1.9
+F1 Religion dual hub,free cohort (Dec25-Aug26),Religion -> Spanish,2719,134,4.9,0.8
+F1 Religion dual hub,free cohort (Dec25-Aug26),Religion -> Portuguese: distinct accounts / projects / max projects per account,1467,1467,1,
+F1 Religion dual hub,free cohort (Dec25-Aug26),Religion -> Portuguese accounts: max / mean projects per account across the whole window (any industry or language),1467,,352,1.27
+F2 Korean-target ranking (Science & Tech),paid cohort (Dec25-Aug26),Science & Tech -> English (rank by projects),4027,1216,30.2,1.4
+F2 Korean-target ranking (Science & Tech),paid cohort (Dec25-Aug26),Science & Tech -> Spanish (rank by projects),4027,420,10.4,0.9
+F2 Korean-target ranking (Science & Tech),paid cohort (Dec25-Aug26),Science & Tech -> French (rank by projects),4027,367,9.1,0.9
+F2 Korean-target ranking (Science & Tech),paid cohort (Dec25-Aug26),Science & Tech -> Italian (rank by projects),4027,297,7.4,0.8
+F2 Korean-target ranking (Science & Tech),paid cohort (Dec25-Aug26),Science & Tech -> Korean (rank by projects),4027,282,7.0,0.8
+F2 Korean-target ranking (Science & Tech),paid cohort (Dec25-Aug26),Science & Tech -> Portuguese (rank by projects),4027,202,5.0,0.7
+F1 Religion dual hub,"June window, tier recorded (Dec 1 2025 - Apr 28 2026), free cohort",Religion -> English,1632,291,17.8,1.9
+F1 Religion dual hub,"June window, tier recorded (Dec 1 2025 - Apr 28 2026), free cohort",Religion -> Portuguese,1632,924,56.6,2.4
+F1 Religion dual hub,"June window, tier recorded (Dec 1 2025 - Apr 28 2026), free cohort",Religion -> Spanish,1632,68,4.2,1.0
+F1 Religion dual hub,"June window, tier recorded (Dec 1 2025 - Apr 28 2026), paid cohort",Religion -> English,2529,819,32.4,1.8
+F1 Religion dual hub,"June window, tier recorded (Dec 1 2025 - Apr 28 2026), paid cohort",Religion -> Portuguese,2529,217,8.6,1.1
+F1 Religion dual hub,"June window, tier recorded (Dec 1 2025 - Apr 28 2026), paid cohort",Religion -> Spanish,2529,477,18.9,1.5
+F1 Religion dual hub,"June window, before the credit ledger (Oct 1 - Nov 30 2025), all categorized, tier not split",Religion -> English,1975,430,21.8,1.8
+F1 Religion dual hub,"June window, before the credit ledger (Oct 1 - Nov 30 2025), all categorized, tier not split",Religion -> Portuguese,1975,418,21.2,1.8
+F1 Religion dual hub,"June window, before the credit ledger (Oct 1 - Nov 30 2025), all categorized, tier not split",Religion -> Spanish,1975,304,15.4,1.6
+F1 Religion dual hub,"June window, tier recorded (Dec 1 2025 - Apr 28 2026), free cohort",Religion -> Portuguese: distinct accounts / projects / max projects per account,924,924,1,
+F1 Religion dual hub,"June window, tier recorded (Dec 1 2025 - Apr 28 2026), free cohort",Religion -> Portuguese accounts: accounts / accounts with exactly one project of any kind across the whole data period / max projects per account,924,922,6,

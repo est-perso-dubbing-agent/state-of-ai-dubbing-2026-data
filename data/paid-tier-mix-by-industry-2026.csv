@@ -1,0 +1,104 @@
+industry,tier,paid_projects,dubbed_minutes,paid_creators_non_additive,avg_minutes_per_project
+Animation,pro,677,5537.0,56,8.19
+Animation,creator,915,3350.0,62,3.66
+Animation,starter,246,368.0,85,1.57
+Animation,enterprise,62,178.0,11,2.86
+Animation,team,3,20.0,2,6.61
+Beauty,pro,1185,1962.0,50,1.66
+Beauty,enterprise,71,522.0,11,7.36
+Beauty,creator,448,507.0,63,1.13
+Beauty,starter,456,429.0,101,0.96
+Beauty,team,6,33.0,1,5.49
+Business & Finance,pro,1660,9522.0,137,5.76
+Business & Finance,creator,772,2904.0,133,3.93
+Business & Finance,starter,783,1005.0,260,1.34
+Business & Finance,enterprise,127,726.0,20,6.05
+Business & Finance,team,2,31.0,2,15.28
+Comedy,pro,649,1739.0,36,2.68
+Comedy,creator,185,379.0,48,2.06
+Comedy,starter,233,204.0,87,0.89
+Comedy,enterprise,51,79.0,9,1.56
+Comedy,team,2,30.0,2,15.1
+Education,enterprise,1953,27775.0,59,14.31
+Education,pro,3516,20425.0,236,5.82
+Education,creator,1985,7452.0,207,3.88
+Education,starter,676,1078.0,241,1.68
+Education,team,17,248.0,5,14.6
+Entertainment & Doc,pro,2233,9501.0,88,4.26
+Entertainment & Doc,creator,265,1015.0,72,3.83
+Entertainment & Doc,team,15,306.0,5,20.4
+Entertainment & Doc,starter,165,291.0,82,1.8
+Entertainment & Doc,enterprise,104,286.0,18,2.78
+Film & Drama,pro,820,5488.0,61,6.75
+Film & Drama,creator,707,2866.0,72,4.07
+Film & Drama,enterprise,716,964.0,13,1.49
+Film & Drama,starter,464,546.0,127,1.22
+Film & Drama,team,17,360.0,3,21.17
+Food & Cooking,pro,1215,2884.0,38,2.38
+Food & Cooking,creator,222,473.0,39,2.13
+Food & Cooking,enterprise,54,256.0,18,4.74
+Food & Cooking,starter,126,121.0,58,0.99
+Gaming,pro,1645,15757.0,60,9.76
+Gaming,enterprise,525,7791.0,16,14.84
+Gaming,creator,1186,4544.0,71,3.84
+Gaming,starter,352,403.0,72,1.17
+Gaming,team,10,57.0,2,5.72
+Lifestyle,pro,1287,2932.0,105,2.29
+Lifestyle,creator,398,721.0,109,1.82
+Lifestyle,starter,449,363.0,188,0.83
+Lifestyle,enterprise,126,281.0,25,2.27
+Lifestyle,team,16,59.0,3,3.68
+Medical & Health,enterprise,539,14901.0,14,27.9
+Medical & Health,pro,3109,10865.0,105,3.53
+Medical & Health,creator,1067,2887.0,87,2.73
+Medical & Health,starter,620,849.0,155,1.39
+Medical & Health,team,53,268.0,2,5.05
+News,pro,1109,9661.0,98,9.34
+News,creator,349,1253.0,70,3.59
+News,starter,368,541.0,138,1.51
+News,enterprise,110,496.0,16,4.59
+News,team,6,123.0,2,20.48
+Other,pro,3461,14094.0,210,4.09
+Other,creator,1196,3489.0,215,2.97
+Other,enterprise,534,2026.0,35,3.81
+Other,starter,1026,1157.0,399,1.22
+Other,team,67,703.0,6,10.49
+Pets & Animals,pro,372,740.0,29,2.0
+Pets & Animals,enterprise,310,685.0,6,2.22
+Pets & Animals,creator,282,659.0,22,2.35
+Pets & Animals,starter,144,94.0,35,0.67
+Pets & Animals,team,4,4.0,1,1.02
+Product Review,pro,1860,5333.0,83,2.87
+Product Review,creator,757,1106.0,87,1.48
+Product Review,starter,474,353.0,142,0.76
+Product Review,team,176,223.0,2,1.26
+Product Review,enterprise,39,39.0,7,1.01
+Religion,pro,5370,26310.0,82,4.9
+Religion,creator,781,3532.0,67,4.53
+Religion,enterprise,253,3449.0,8,13.63
+Religion,starter,414,906.0,112,2.22
+Religion,team,5,124.0,2,24.7
+Science & Tech,pro,1570,10043.0,160,6.46
+Science & Tech,creator,1584,6468.0,145,4.11
+Science & Tech,enterprise,353,4109.0,32,11.87
+Science & Tech,starter,492,930.0,202,1.95
+Science & Tech,team,28,339.0,4,12.12
+Sports & Fitness,pro,1162,4578.0,71,4.0
+Sports & Fitness,creator,726,2682.0,53,3.72
+Sports & Fitness,starter,278,340.0,105,1.41
+Sports & Fitness,enterprise,52,132.0,9,2.53
+Talk & Interview,pro,930,4913.0,101,5.32
+Talk & Interview,enterprise,460,3013.0,24,6.62
+Talk & Interview,creator,333,1247.0,85,3.78
+Talk & Interview,starter,355,432.0,163,1.33
+Talk & Interview,team,7,115.0,3,16.41
+Travel & Events,pro,520,2796.0,35,5.39
+Travel & Events,creator,393,1573.0,35,4.01
+Travel & Events,enterprise,69,533.0,8,7.96
+Travel & Events,team,11,279.0,2,25.35
+Travel & Events,starter,137,129.0,48,0.99
+Uncategorized,enterprise,700,3089.0,44,8.56
+Uncategorized,pro,812,2517.0,166,11.82
+Uncategorized,creator,515,958.0,144,4.41
+Uncategorized,starter,697,346.0,259,2.29
+Uncategorized,team,10,47.0,4,15.75

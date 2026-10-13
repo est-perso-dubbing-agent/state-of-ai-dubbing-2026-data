@@ -1,0 +1,16 @@
+metric,june_edition_published,v2_rule_recomputed_on_june_period,reproduces
+Total projects (Jan 1 2025 - Apr 28 2026),316856,316856,True
+Categorized projects (Oct 1 2025 - Apr 28 2026),112797,112797,True
+Categorized projects as stated in the June headline CSV (June-internal inconsistency),112805,112797,False
+Denominator of the June downloadable Use Case Map files (active projects only),42046,n/a (v2 uses all statuses),False
+Source languages,36,36,True
+Target languages,34,34,True
+Active language pairs,909,909,True
+Share rate (all projects),95.8,95.8,True
+Unique creator accounts,140143,140143,True
+Professional creators (6+ projects),4023,3743,False
+Single-use creators (1 project),115439,114573,False
+Professional projects,143805,145596,False
+Avg target languages per professional creator,2.43,2.39,False
+Median target languages per professional creator,1,1,True
+Top 1% cohort: n / avg languages / min languages (June data file),47 / 20.3 (text said 15) / 15,43 / 21.3 / see top1pct file,False

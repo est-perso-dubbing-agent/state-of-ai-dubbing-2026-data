@@ -1,0 +1,44 @@
+anon_creator_id,anon_workspace_id,target_languages_used,total_projects,categorized_projects,unique_industries_touched,primary_industry
+PRO-001,WS-001,33,1861,1851,10,Product Review
+PRO-002,WS-002,32,299,65,14,Education
+PRO-003,WS-003,31,132,37,1,Gaming
+PRO-004,WS-004,29,80,0,0,Unknown
+PRO-005,WS-005,29,79,16,2,Animation
+PRO-006,WS-006,28,611,259,19,Science & Tech
+PRO-007,WS-007,28,337,220,10,Comedy
+PRO-008,WS-008,26,95,0,0,Unknown
+PRO-009,WS-009,25,847,318,15,Religion
+PRO-010,WS-010,24,1329,577,19,Education
+PRO-011,WS-011,24,533,508,8,News
+PRO-012,WS-012,24,134,134,5,Film & Drama
+PRO-013,WS-013,24,68,0,0,Unknown
+PRO-014,WS-014,22,364,266,19,Education
+PRO-015,WS-015,22,237,135,18,Business & Finance
+PRO-016,WS-016,22,56,0,0,Unknown
+PRO-017,WS-017,21,209,103,1,Gaming
+PRO-018,WS-018,21,206,99,1,Gaming
+PRO-019,WS-019,21,102,1,0,Unknown
+PRO-020,WS-020,21,25,0,0,Unknown
+PRO-021,WS-021,20,481,173,2,Gaming
+PRO-022,WS-022,20,61,15,4,Business & Finance
+PRO-023,WS-023,19,1245,62,1,Gaming
+PRO-024,WS-024,19,833,355,14,Education
+PRO-025,WS-025,19,296,240,14,Comedy
+PRO-026,WS-026,19,123,49,15,Talk & Interview
+PRO-027,WS-027,19,115,0,0,Unknown
+PRO-028,WS-028,19,79,21,7,Entertainment & Doc
+PRO-029,WS-029,19,38,0,0,Unknown
+PRO-030,WS-030,19,20,20,1,Film & Drama
+PRO-031,WS-031,18,174,153,4,Entertainment & Doc
+PRO-032,WS-032,17,757,0,0,Unknown
+PRO-033,WS-033,17,614,561,6,Gaming
+PRO-034,WS-034,17,553,547,3,Religion
+PRO-035,WS-035,17,543,535,4,Religion
+PRO-036,WS-036,17,491,484,5,Gaming
+PRO-037,WS-037,17,442,430,4,Business & Finance
+PRO-038,WS-038,17,361,0,0,Unknown
+PRO-039,WS-039,17,247,239,17,Film & Drama
+PRO-040,WS-040,16,551,544,3,Religion
+PRO-041,WS-041,16,495,492,3,Religion
+PRO-042,WS-042,16,271,0,0,Unknown
+PRO-043,WS-043,16,93,72,7,Pets & Animals

@@ -1,0 +1,22 @@
+metric,value,unit
+Window,Dec 1 2025 - Aug 31 2026 (usage-based pricing era; credit ledger complete),-
+Paid projects,66846,projects
+Paid creators,2902,creators
+Paid workspaces,2916,workspaces
+Dubbed minutes (paid),303241.0,minutes
+Credits consumed (paid),4049042.0,credits
+Paid dubbing/lip-sync projects (audio-separation and transcription excluded),64837,projects
+Paid projects with a translated-video duration (n=64194),64194,projects
+"Avg minutes per paid project, among projects with a duration (n=64194)",4.72,minutes
+Median minutes per paid project (same base),2.47,minutes
+"Paid share of all in-scope projects (same window, tier known; base n=134153)",49.8,%
+"Paid share of all dubbed minutes (same window; free plan output is capped at ~1 minute, so this largely reflects plan limits)",88.7,%
+Avg target languages per paid creator,1.78,languages
+Median target languages per paid creator,1,languages
+Paid creators using 2+ target languages,31.9,%
+Paid creators using 5+ target languages,172,creators
+Paid creators using 10+ target languages,44,creators
+Avg projects per paid creator,23.0,projects
+Median projects per paid creator,4,projects
+Avg active months per paid creator (of 9),1.6,months
+Share of paid minutes by top 10% of paid creators,82.5,%

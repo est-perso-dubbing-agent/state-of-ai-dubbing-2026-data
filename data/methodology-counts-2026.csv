@@ -1,0 +1,18 @@
+item,value,scope
+Raw category labels normalized,335,all rows
+Unmapped labels,0,all rows
+Product categories folded into Other (not in June taxonomy),11,all rows
+Multi-account abuse accounts excluded,2636,Dec 2025 - Aug 2026
+Paid-tier projects removed by the abuse exclusion,410,Dec 2025 - Aug 2026
+Internal/demo plan names matched,15,plan table
+Internal/demo accounts excluded,103,Dec 2025 - Aug 2026
+Projects with ledger rows on more than one tier,62,credit ledger
+Paid projects with inherited tier,23726,paid cohort
+"Paid projects with inherited tier, share of paid projects (%)",35.5,paid cohort
+"Paid minutes on inherited-tier projects, share of paid minutes (%)",26.5,paid cohort
+Unknown-tier projects (excluded),2700,Dec 2025 - Aug 2026
+"Paid projects without a translated video (audio separation, transcription, or untyped with no duration)",2009,paid cohort
+  of which untyped projects (Dec 2025 - Mar 6 2026) with no duration,528,paid cohort
+Paid dubbing/lip-sync projects without a duration,643,paid cohort
+Paid projects clipped for negative credits,6,paid cohort
+Countries shown individually / pooled,35 / 72,self-serve paid

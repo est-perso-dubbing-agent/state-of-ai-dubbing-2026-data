@@ -1,0 +1,18 @@
+metric,value,unit
+"Total projects (20-month, Jan 2025 - Aug 2026)",386068,projects
+Unique creator accounts,172688,creators
+Projects added since the June edition (Apr 29 - Aug 31 2026),69212,projects
+Total professional projects,180258,projects
+Categorized projects (Oct 2025 - Aug 2026),173048,projects
+Professional creators (6+ projects),4290,creators
+Single-use creators (mass-market),144983,creators
+Source languages,71,languages
+Target languages,68,languages
+Active language pairs,1162,pairs
+"Share rate (all projects, Jan 2025 - Jun 10 2026; share default changed Jun 11 2026)",95.9,%
+Avg target languages per pro creator,2.39,languages
+Median target languages per pro creator,1,languages
+"Top 1% of pro creators by target-language count, avg languages (n=43; v1 cohort n=47 avg 20.3, min 15)",21.3,languages
+Max target languages (single creator),33,languages
+"Countries with a paid subscription lifecycle (Stripe billing country, Jul 2024 - Sep 2026; active/cancelled/past-due customers)",119,countries
+Countries with an active paid subscription (Sep 7 2026),68,countries

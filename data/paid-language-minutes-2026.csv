@@ -1,0 +1,56 @@
+target_language,paid_projects,pct_of_paid_projects,dubbed_minutes,pct_of_paid_minutes,meets_guardrail_n500_300min,avg_minutes_per_project,paid_creators_non_additive,unique_industries,pct_projects_20min_plus,top_industry_1,top_industry_1_pct_minutes,top_industry_2,top_industry_2_pct_minutes,top_industry_3,top_industry_3_pct_minutes,regional_variants_project_counts
+English,19557,29.26,94109.0,31.03,True,5.3,1513,21,7.3,Education,26.5,Medical & Health,15.7,Gaming,7.8,English:11054; English (US):8503
+Spanish,8890,13.3,35896.0,11.84,True,4.17,576,21,3.6,Religion,16.3,Education,12.2,Gaming,10.4,Spanish:4513; Spanish (Mexico):4377
+Portuguese,6111,9.14,30622.0,10.1,True,5.1,362,21,4.9,Education,17.4,Medical & Health,11.9,Animation,7.9,Portuguese:3179; Portuguese (Brazil):2932
+French,5849,8.75,20678.0,6.82,True,3.57,295,21,2.3,Education,18.9,Religion,17.2,Entertainment & Doc,14.9,French:5849
+Korean,2756,4.12,12981.0,4.28,True,4.91,296,21,4.7,News,21.4,Education,15.2,Science & Tech,11.3,Korean:2756
+Chinese,2170,3.25,12256.0,4.04,True,5.79,209,21,10.0,Religion,34.2,Education,24.5,Gaming,7.9,Chinese:2170
+Japanese,2580,3.86,11357.0,3.75,True,4.46,226,21,5.3,Education,27.4,Medical & Health,12.0,Gaming,9.7,Japanese:2580
+German,2368,3.54,9164.0,3.02,True,3.91,229,21,3.8,Religion,14.5,Gaming,14.4,News,10.9,German:2368
+Italian,2287,3.42,8489.0,2.8,True,3.74,133,21,2.5,Education,23.4,Science & Tech,18.7,Religion,17.9,Italian:2287
+Russian,1717,2.57,8460.0,2.79,True,5.01,157,21,3.7,Gaming,29.7,Religion,25.7,Sports & Fitness,10.0,Russian:1717
+Turkish,653,0.98,7155.0,2.36,True,11.2,68,21,17.1,Medical & Health,43.8,Gaming,18.8,Science & Tech,9.0,Turkish:653
+Hindi,1481,2.22,6387.0,2.11,True,4.36,118,21,2.3,Education,23.6,Religion,13.2,Gaming,10.8,Hindi:1481
+Thai,1742,2.61,5925.0,1.95,True,3.44,129,21,3.1,Animation,19.8,Film & Drama,19.0,Gaming,9.0,Thai:1742
+Vietnamese,1493,2.23,5276.0,1.74,True,3.61,105,21,2.4,Gaming,22.5,Education,13.6,Talk & Interview,10.0,Vietnamese:1493
+Indonesian,1047,1.57,5211.0,1.72,True,5.04,91,21,5.4,Film & Drama,19.1,Business & Finance,14.2,Gaming,12.4,Indonesian:1047
+Arabic,756,1.13,5035.0,1.66,True,6.71,115,21,8.8,Film & Drama,20.7,Gaming,20.3,Education,7.7,Arabic:756
+Polish,1253,1.87,4402.0,1.45,True,3.57,93,21,1.3,Science & Tech,22.5,Religion,17.7,Gaming,17.5,Polish:1253
+Filipino,232,0.35,3660.0,1.21,False,16.26,31,19,38.7,Education,66.4,Film & Drama,12.5,Product Review,4.5,Filipino:232
+Ukrainian,425,0.64,2706.0,0.89,False,6.49,56,19,6.2,Education,24.1,Science & Tech,21.4,Entertainment & Doc,14.2,Ukrainian:425
+Greek,367,0.55,1888.0,0.62,False,5.16,15,15,0.0,Religion,59.7,Talk & Interview,12.9,Product Review,10.0,Greek:367
+Hungarian,400,0.6,1590.0,0.52,False,4.0,28,19,5.8,Animation,39.1,Uncategorized,15.5,Product Review,13.6,Hungarian:400
+Dutch,415,0.62,1584.0,0.52,False,3.83,39,17,1.2,Religion,51.7,Business & Finance,18.2,Science & Tech,7.3,Dutch:415
+Czech,377,0.56,1565.0,0.52,False,4.16,34,20,0.8,Science & Tech,39.0,Gaming,19.4,Product Review,12.7,Czech:377
+Norwegian,338,0.51,1106.0,0.36,False,3.28,24,19,0.3,Product Review,17.5,Entertainment & Doc,17.2,Business & Finance,15.2,Norwegian:338
+Romanian,201,0.3,1035.0,0.34,False,5.23,30,16,4.0,Gaming,45.7,Product Review,20.1,Religion,7.1,Romanian:201
+Slovak,177,0.26,1007.0,0.33,False,5.72,16,11,6.8,Religion,65.3,Product Review,17.8,Medical & Health,5.2,Slovak:177
+Malay,175,0.26,625.0,0.21,False,3.61,18,17,2.3,Product Review,30.7,Medical & Health,13.9,Education,9.9,Malay:175
+Danish,109,0.16,537.0,0.18,False,4.92,13,13,4.6,Product Review,33.7,Science & Tech,30.0,Gaming,10.2,Danish:109
+Tamil,139,0.21,530.0,0.17,False,3.81,16,13,0.0,Travel & Events,53.0,Pets & Animals,5.7,Science & Tech,5.1,Tamil:139
+Croatian,159,0.24,415.0,0.14,False,2.64,11,17,0.0,Product Review,45.8,News,10.8,Entertainment & Doc,8.4,Croatian:159
+Finnish,116,0.17,413.0,0.14,False,3.56,14,15,0.9,Product Review,48.2,Gaming,11.9,Comedy,7.7,Finnish:116
+Swedish,148,0.22,375.0,0.12,False,2.55,19,15,0.7,Product Review,52.5,Gaming,8.0,Medical & Health,5.3,Swedish:148
+Bulgarian,87,0.13,307.0,0.1,False,3.57,10,10,1.2,Product Review,65.5,Science & Tech,9.8,Travel & Events,2.9,Bulgarian:87
+Telugu,27,0.04,117.0,0.04,False,4.32,1,2,0.0,Travel & Events,83.8,Religion,15.4,,,Telugu:27
+Malayalam,27,0.04,92.0,0.03,False,3.41,5,5,0.0,Travel & Events,64.1,Business & Finance,14.1,Religion,14.1,Malayalam:27
+Kannada,21,0.03,76.0,0.03,False,3.61,3,3,0.0,Travel & Events,57.9,Religion,25.0,Pets & Animals,17.1,Kannada:21
+Kazakh,64,0.1,62.0,0.02,False,0.99,18,16,0.0,News,22.6,Film & Drama,19.4,Education,12.9,Kazakh:64
+Marathi,24,0.04,54.0,0.02,False,2.27,2,4,0.0,Religion,94.4,Education,3.7,Uncategorized,1.9,Marathi:24
+Persian,14,0.02,19.0,0.01,False,1.37,5,8,0.0,Education,36.8,Entertainment & Doc,21.1,Gaming,15.8,Persian:14
+Serbian,11,0.02,17.0,0.01,False,1.52,4,4,0.0,Education,76.5,Medical & Health,17.6,Business & Finance,0.0,Serbian:11
+Bengali,8,0.01,10.0,0.0,False,1.65,4,5,0.0,Science & Tech,50.0,Education,40.0,Business & Finance,10.0,Bengali:8
+Catalan,6,0.01,9.0,0.0,False,1.55,1,2,0.0,Education,22.2,,,,,Catalan:6
+Welsh,3,0.0,8.0,0.0,False,2.82,1,2,0.0,News,62.5,,,,,Welsh:3
+Lithuanian,4,0.01,6.0,0.0,False,1.4,2,4,0.0,Beauty,33.3,Medical & Health,33.3,Lifestyle,16.7,Lithuanian:4
+Macedonian,6,0.01,6.0,0.0,False,0.92,1,2,0.0,Product Review,83.3,Science & Tech,0.0,,,Macedonian:6
+Urdu,16,0.02,6.0,0.0,False,0.38,5,6,0.0,Film & Drama,33.3,Product Review,33.3,Medical & Health,16.7,Urdu:16
+Hebrew,16,0.02,5.0,0.0,False,0.33,4,6,0.0,Education,40.0,Religion,40.0,Medical & Health,20.0,Hebrew:16
+Latvian,3,0.0,5.0,0.0,False,1.53,1,3,0.0,Beauty,40.0,Medical & Health,40.0,Product Review,20.0,Latvian:3
+Javanese,2,0.0,1.0,0.0,False,0.7,1,1,0.0,Comedy,100.0,,,,,Javanese:2
+Armenian,5,0.01,0.0,0.0,False,0.09,1,1,0.0,,,,,,,Armenian:5
+Azerbaijani,1,0.0,0.0,0.0,False,0.37,1,1,0.0,Beauty,0.0,,,,,Azerbaijani:1
+Belarusian,1,0.0,0.0,0.0,False,0.4,1,1,0.0,,,,,,,Belarusian:1
+Georgian,5,0.01,0.0,0.0,False,0.09,1,1,0.0,,,,,,,Georgian:5
+Nepali,5,0.01,0.0,0.0,False,0.09,1,1,0.0,,,,,,,Nepali:5
+Punjabi,2,0.0,0.0,0.0,False,0.1,1,1,0.0,,,,,,,Punjabi:2

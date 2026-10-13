@@ -1,0 +1,201 @@
+target_language,industry,project_count,pct_of_target_language,target_language_total,rank_within_target
+English,Other,6100,13.1,46574,1
+English,Education,5715,12.27,46574,2
+English,Religion,2955,6.34,46574,3
+English,Business & Finance,2775,5.96,46574,4
+English,Gaming,2775,5.96,46574,5
+English,Animation,2671,5.73,46574,6
+English,Medical & Health,2667,5.73,46574,7
+English,Film & Drama,2533,5.44,46574,8
+English,Science & Tech,2508,5.38,46574,9
+English,Talk & Interview,2297,4.93,46574,10
+Portuguese,Religion,2645,12.77,20720,1
+Portuguese,Animation,2230,10.76,20720,2
+Portuguese,Other,2204,10.64,20720,3
+Portuguese,Education,2144,10.35,20720,4
+Portuguese,Talk & Interview,1343,6.48,20720,5
+Portuguese,Medical & Health,1182,5.7,20720,6
+Portuguese,Gaming,1150,5.55,20720,7
+Portuguese,Film & Drama,1040,5.02,20720,8
+Portuguese,Business & Finance,1005,4.85,20720,9
+Portuguese,Sports & Fitness,876,4.23,20720,10
+Hindi,Animation,4169,21.29,19582,1
+Hindi,Film & Drama,3700,18.89,19582,2
+Hindi,Other,2111,10.78,19582,3
+Hindi,Comedy,1494,7.63,19582,4
+Hindi,Entertainment & Doc,1383,7.06,19582,5
+Hindi,Education,1308,6.68,19582,6
+Hindi,Science & Tech,714,3.65,19582,7
+Hindi,Lifestyle,583,2.98,19582,8
+Hindi,Gaming,580,2.96,19582,9
+Hindi,Medical & Health,548,2.8,19582,10
+Spanish,Other,1883,11.07,17006,1
+Spanish,Education,1835,10.79,17006,2
+Spanish,Religion,1471,8.65,17006,3
+Spanish,Film & Drama,1385,8.14,17006,4
+Spanish,Business & Finance,1057,6.22,17006,5
+Spanish,Medical & Health,1046,6.15,17006,6
+Spanish,Talk & Interview,1008,5.93,17006,7
+Spanish,Science & Tech,890,5.23,17006,8
+Spanish,Gaming,851,5.0,17006,9
+Spanish,Entertainment & Doc,792,4.66,17006,10
+French,Other,1879,19.22,9774,1
+French,Entertainment & Doc,1300,13.3,9774,2
+French,Education,1242,12.71,9774,3
+French,Religion,745,7.62,9774,4
+French,Sports & Fitness,643,6.58,9774,5
+French,Science & Tech,554,5.67,9774,6
+French,Product Review,428,4.38,9774,7
+French,Gaming,348,3.56,9774,8
+French,Talk & Interview,334,3.42,9774,9
+French,Business & Finance,312,3.19,9774,10
+Korean,Other,1581,20.26,7802,1
+Korean,Science & Tech,914,11.71,7802,2
+Korean,Education,889,11.39,7802,3
+Korean,Film & Drama,672,8.61,7802,4
+Korean,Animation,581,7.45,7802,5
+Korean,Lifestyle,507,6.5,7802,6
+Korean,News,405,5.19,7802,7
+Korean,Business & Finance,360,4.61,7802,8
+Korean,Talk & Interview,353,4.52,7802,9
+Korean,Gaming,332,4.26,7802,10
+Indonesian,Animation,1925,28.1,6851,1
+Indonesian,Film & Drama,1018,14.86,6851,2
+Indonesian,Other,521,7.6,6851,3
+Indonesian,Education,407,5.94,6851,4
+Indonesian,Product Review,352,5.14,6851,5
+Indonesian,Medical & Health,301,4.39,6851,6
+Indonesian,Gaming,299,4.36,6851,7
+Indonesian,Business & Finance,293,4.28,6851,8
+Indonesian,Science & Tech,278,4.06,6851,9
+Indonesian,Food & Cooking,236,3.44,6851,10
+Japanese,Medical & Health,803,16.91,4748,1
+Japanese,Education,612,12.89,4748,2
+Japanese,Gaming,401,8.45,4748,3
+Japanese,Other,363,7.65,4748,4
+Japanese,Beauty,301,6.34,4748,5
+Japanese,Science & Tech,280,5.9,4748,6
+Japanese,Talk & Interview,270,5.69,4748,7
+Japanese,Film & Drama,218,4.59,4748,8
+Japanese,Religion,203,4.28,4748,9
+Japanese,Sports & Fitness,196,4.13,4748,10
+Russian,Religion,645,13.82,4666,1
+Russian,Gaming,628,13.46,4666,2
+Russian,Other,623,13.35,4666,3
+Russian,Education,257,5.51,4666,4
+Russian,Science & Tech,256,5.49,4666,5
+Russian,Talk & Interview,253,5.42,4666,6
+Russian,Comedy,241,5.17,4666,7
+Russian,Lifestyle,235,5.04,4666,8
+Russian,Film & Drama,229,4.91,4666,9
+Russian,Animation,219,4.69,4666,10
+Chinese,Education,739,17.02,4341,1
+Chinese,Medical & Health,530,12.21,4341,2
+Chinese,Other,453,10.44,4341,3
+Chinese,Business & Finance,332,7.65,4341,4
+Chinese,Religion,291,6.7,4341,5
+Chinese,Product Review,237,5.46,4341,6
+Chinese,Gaming,199,4.58,4341,7
+Chinese,Talk & Interview,183,4.22,4341,8
+Chinese,News,156,3.59,4341,9
+Chinese,Beauty,150,3.46,4341,10
+German,Other,483,11.29,4278,1
+German,Gaming,432,10.1,4278,2
+German,Religion,415,9.7,4278,3
+German,Education,298,6.97,4278,4
+German,Medical & Health,279,6.52,4278,5
+German,Product Review,262,6.12,4278,6
+German,Science & Tech,258,6.03,4278,7
+German,News,254,5.94,4278,8
+German,Lifestyle,204,4.77,4278,9
+German,Beauty,202,4.72,4278,10
+Arabic,Animation,867,23.02,3767,1
+Arabic,Film & Drama,603,16.01,3767,2
+Arabic,Other,457,12.13,3767,3
+Arabic,Gaming,315,8.36,3767,4
+Arabic,Education,235,6.24,3767,5
+Arabic,Medical & Health,195,5.18,3767,6
+Arabic,Entertainment & Doc,153,4.06,3767,7
+Arabic,Science & Tech,107,2.84,3767,8
+Arabic,Talk & Interview,97,2.57,3767,9
+Arabic,Religion,96,2.55,3767,10
+Italian,Religion,481,13.32,3611,1
+Italian,Education,471,13.04,3611,2
+Italian,Other,423,11.71,3611,3
+Italian,Science & Tech,355,9.83,3611,4
+Italian,Lifestyle,228,6.31,3611,5
+Italian,Gaming,225,6.23,3611,6
+Italian,Beauty,207,5.73,3611,7
+Italian,Product Review,204,5.65,3611,8
+Italian,Business & Finance,132,3.66,3611,9
+Italian,Food & Cooking,131,3.63,3611,10
+Thai,Animation,592,17.28,3425,1
+Thai,Film & Drama,485,14.16,3425,2
+Thai,Other,335,9.78,3425,3
+Thai,Product Review,227,6.63,3425,4
+Thai,Pets & Animals,205,5.99,3425,5
+Thai,Gaming,201,5.87,3425,6
+Thai,Education,197,5.75,3425,7
+Thai,Business & Finance,187,5.46,3425,8
+Thai,Medical & Health,184,5.37,3425,9
+Thai,Science & Tech,175,5.11,3425,10
+Vietnamese,Other,419,14.41,2907,1
+Vietnamese,Education,415,14.28,2907,2
+Vietnamese,Gaming,257,8.84,2907,3
+Vietnamese,Product Review,245,8.43,2907,4
+Vietnamese,Medical & Health,200,6.88,2907,5
+Vietnamese,Sports & Fitness,166,5.71,2907,6
+Vietnamese,Film & Drama,151,5.19,2907,7
+Vietnamese,Animation,147,5.06,2907,8
+Vietnamese,Comedy,115,3.96,2907,9
+Vietnamese,News,105,3.61,2907,10
+Turkish,Other,374,15.64,2391,1
+Turkish,Gaming,369,15.43,2391,2
+Turkish,Film & Drama,254,10.62,2391,3
+Turkish,Education,199,8.32,2391,4
+Turkish,Medical & Health,180,7.53,2391,5
+Turkish,Business & Finance,153,6.4,2391,6
+Turkish,Product Review,128,5.35,2391,7
+Turkish,Science & Tech,128,5.35,2391,8
+Turkish,Entertainment & Doc,109,4.56,2391,9
+Turkish,Animation,108,4.52,2391,10
+Polish,Gaming,262,12.51,2094,1
+Polish,Science & Tech,249,11.89,2094,2
+Polish,Other,211,10.08,2094,3
+Polish,Product Review,210,10.03,2094,4
+Polish,Religion,189,9.03,2094,5
+Polish,News,159,7.59,2094,6
+Polish,Lifestyle,157,7.5,2094,7
+Polish,Education,108,5.16,2094,8
+Polish,Animation,84,4.01,2094,9
+Polish,Comedy,78,3.72,2094,10
+Ukrainian,Other,194,17.38,1116,1
+Ukrainian,Education,129,11.56,1116,2
+Ukrainian,Entertainment & Doc,118,10.57,1116,3
+Ukrainian,Science & Tech,101,9.05,1116,4
+Ukrainian,Religion,97,8.69,1116,5
+Ukrainian,News,72,6.45,1116,6
+Ukrainian,Gaming,52,4.66,1116,7
+Ukrainian,Medical & Health,51,4.57,1116,8
+Ukrainian,Talk & Interview,47,4.21,1116,9
+Ukrainian,Lifestyle,43,3.85,1116,10
+Tamil,Other,117,16.25,720,1
+Tamil,Animation,69,9.58,720,2
+Tamil,Travel & Events,68,9.44,720,3
+Tamil,Education,62,8.61,720,4
+Tamil,Film & Drama,59,8.19,720,5
+Tamil,Science & Tech,55,7.64,720,6
+Tamil,Medical & Health,40,5.56,720,7
+Tamil,News,35,4.86,720,8
+Tamil,Product Review,29,4.03,720,9
+Tamil,Comedy,26,3.61,720,10
+Czech,Science & Tech,151,23.74,636,1
+Czech,Product Review,105,16.51,636,2
+Czech,Gaming,82,12.89,636,3
+Czech,Other,69,10.85,636,4
+Czech,News,46,7.23,636,5
+Czech,Animation,32,5.03,636,6
+Czech,Education,27,4.25,636,7
+Czech,Business & Finance,24,3.77,636,8
+Czech,Comedy,18,2.83,636,9
+Czech,Lifestyle,17,2.67,636,10
